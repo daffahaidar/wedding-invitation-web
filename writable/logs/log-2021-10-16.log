@@ -1,0 +1,588 @@
+INFO - 2021-10-16 20:35:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:35:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 20:35:15 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-10-16 20:35:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:35:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:35:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:36:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:36:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:40:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:50:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 20:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:50:42 --> Class 'Midtrans\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:51:02 --> Class 'Midtrans\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:51:36 --> Class 'Midtrans\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:53:23 --> Class 'Midtrans\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:53:26 --> Class 'Midtrans\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:46 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:48 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:49 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:50 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:50 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:51 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:54:51 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 20:55:34 --> Class 'Codenom\Config\Services' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 20:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 20:58:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 20:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 20:58:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 20:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 20:58:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:00:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:00:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:00:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:06:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:08:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:08:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:08:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:08:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:08:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:08:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:09:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:09:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:09:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:09:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:09:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:10:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:10:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:18:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:18:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:18:50 --> Undefined variable: idMerchant
+#0 /home/nguh5634/public_html/app/Views/base/dashboard/invoice.php(193): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 193, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#3 /home/nguh5634/public_html/app/Views/base/dashboard/layout.php(157): view('base/dashboard/...')
+#4 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#5 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#6 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(633): view('base/dashboard/...', Array)
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#9 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2021-10-16 21:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:20:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:20:54 --> Call to undefined method Codenom\Midtrans\Midtrans::setData()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:32:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:32:40 --> Call to undefined method Codenom\Midtrans\Midtrans::setData()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:35:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:36:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:37:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:37:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:37:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:38:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:40:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:40:36 --> Undefined constant 'Codenom\Midtrans\Config\Midtrans'
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:41:21 --> Call to undefined method Codenom\Midtrans\Config\Midtrans::Midtrans()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:41:28 --> Call to undefined method Codenom\Midtrans\Config\Midtrans::Midtrans()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:41:31 --> Call to undefined method Codenom\Midtrans\Config\Midtrans::Midtrans()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:42:15 --> Call to undefined function Codenom\Midtrans\Config\Midtrans()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:45:47 --> Class 'App\Controllers\base\Codenom\Config' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:47:09 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:47:48 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:48:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:48:49 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:48:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:48:58 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:42 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:45 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:45 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:45 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:46 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:50:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:50:46 --> Class 'CodenomConfig' not found
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:52:40 --> Undefined constant 'Codenom\Midtrans\Config\Midtrans'
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-10-16 21:54:03 --> Undefined constant 'Codenom\Midtrans\Config\Midtrans'
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-16 21:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:54:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 21:54:18 --> Undefined property: App\Controllers\base\Dashboard::$config
+#0 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(625): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home/nguh5634/...', 625, Array)
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-10-16 21:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:54:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:54:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:54:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:54:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 21:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:56:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 21:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 21:56:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:00:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:01:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:01:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:01:35 --> Undefined property: App\Controllers\base\Dashboard::$midtrans
+#0 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home/nguh5634/...', 1193, Array)
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-10-16 22:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:02:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:02:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:02:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:02:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:02:19 --> Undefined property: App\Controllers\base\Dashboard::$midtrans
+#0 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home/nguh5634/...', 1193, Array)
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-10-16 22:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:05:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:05:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:05:31 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1194): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:05:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:05:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:06:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:06:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:06:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:06:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:06:24 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1194): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:06:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:06:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:06:44 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1194): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:08:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:08:24 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1194): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:08:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:08:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:08:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:08:35 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1194): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:10:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:10:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:10:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:10:34 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:10:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:10:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:10:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:10:41 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:12:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:12:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:12:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:12:56 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:13:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:13:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:13:21 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:14:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:14:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:14:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:14:52 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1193): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:16:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:16:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:16:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:16:08 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1192): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:16:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:16:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:16:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:19:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:19:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:19:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-16 22:19:32 --> Class 'Laminas\Json\Json' not found
+#0 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/HTTP/APIMidtrans.php(29): Codenom\Midtrans\Parse\JSONParse::encode(Array)
+#1 /home/nguh5634/public_html/app/ThirdParty/Codenom/Midtrans/src/Midtrans.php(55): Codenom\Midtrans\HTTP\APIMidtrans::call('POST', 'https://app.san...', 'SB-Mid-server-5...', Array)
+#2 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(1192): Codenom\Midtrans\Midtrans->getSnapToken(Array)
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-10-16 22:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:21:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:21:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:21:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:21:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:21:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:22:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:22:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:22:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:22:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:29:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 22:30:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 22:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:30:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 22:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:00:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:00:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:01:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:03:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:15:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:15:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-10-16 23:15:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:15:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:16:37 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-10-16 23:16:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:16:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:16:59 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-10-16 23:17:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:40:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:41:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-16 23:41:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:41:32 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-10-16 23:41:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-16 23:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-16 23:41:41 --> Controller "App\Controllers\base\Order" loaded.

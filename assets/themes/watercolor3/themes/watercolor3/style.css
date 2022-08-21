@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Viga&display=swap');
+html, body {
+	font-family: 'Ubuntu', sans-serif;
+    width: 100%;
+    color: #626262;
+    background:#f6f5f5 url('./images/bg.png');
+    background-size: contain;
+}
+html.has-lightbox {
+	overflow: hidden;
+	position: static;
+	height: 100vh;
+	width: 100vw;
+}
+h1 {
+    color:#4e7f48;
+    font-family: 'Pacifico', cursive;
+}
+h1 span {
+    display: block;
+    font-size: 30px !important;
+}
+h2 {
+    font-family: 'Viga', sans-serif;
+    font-size: 1.5rem;
+}
+.btn-primary {
+    background-color: #92ac8f;
+    border-color: #84a880;
+    color: #fff;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+	background-color: #348862 !important;
+	border-color: #348862 !important;
+	color: #fff;
+	box-shadow: none !important;
+}
+.img-thumbnail {
+	border:solid 2px #f7b2b2;
+}
+.caption {
+    color:#92ac8f;
+	font-family: 'Pacifico', cursive;
+}
+.couple-ring::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+.couple-ring.man::before {
+    background: url('./images/border-man.png') center center no-repeat;
+    background-size: contain;
+}
+.couple-ring.girl::before {
+    background: url('./images/border-girl.png') center center no-repeat;
+    background-size: contain;
+}
+.couple-ring img {
+    padding: 1.7rem;
+}
+.information-wrap {
+    position: relative;
+    margin-bottom: 50px;
+}
+.information {
+    text-align: center;
+    background-size: contain;
+    border:solid 3px #92ac8f;
+    padding: 20px;
+    height: 100%;
+    position: relative;
+}
+.information::before,
+.information::after,
+.information h4::before,
+.information h4::after {
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+}
+.information h4::before {
+    content: '';
+    background: url('./images/border-information-tl.png') top left no-repeat;
+    top: -3px;
+    left: -3px;
+    background-size: contain;
+}
+.information h4::after {
+    content: '';
+    background: url('./images/border-information-tr.png') top left no-repeat;
+    top: -3px;
+    right: -3px;
+    background-size: contain;
+}
+.information::before {
+    content: '';
+    background: url('./images/border-information-bl.png') bottom left no-repeat;
+    bottom: -3px;
+    left: -3px;
+    background-size: contain;
+}
+.information::after {
+    content: '';
+    background: url('./images/border-information-br.png') bottom left no-repeat;
+    bottom: -3px;
+    right: -3px;
+    background-size: contain;
+}
+.text-secondary {
+    color: #36715b !important;
+    font-family: 'Viga', sans-serif;
+    text-transform: uppercase;
+}
+.text-secondary span {
+    font-size: 20px;
+    line-height: 40px;
+}
+.container {
+    max-width: 800px;
+	text-align: center;
+}
+section {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	position: relative;
+	z-index: 2;
+    overflow: hidden;
+}
+.full {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	background-size: cover;
+	align-items: center;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.header-frame {
+    padding-top: 105px;
+    padding-bottom: 105px;
+    background:#f6f5f5 url('./images/header-frame.png') center center no-repeat;
+    background-size: contain;
+}
+.header {
+    position: relative;
+    background:#f6f5f5;
+    background-size: contain;
+}
+.timer {
+    height: 130px;
+    width: 130px;
+    background:url('./images/border-timer.png') center no-repeat;
+    background-size: contain;
+    text-align: center;
+    display: inline-block;
+    line-height: 100px;
+    font-size: 40px;
+    color: #4f7e48;
+    margin-bottom: 20px;
+    position: relative;
+}
+.timer-caption::before {
+    display: block;
+    content: '';
+    height: 2px;
+    width: 49%;
+    background: #a6bba3;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+.timer-caption {
+    margin-top: -25px;
+    font-size: 15px;
+    position: relative;
+    padding-top: 7px;
+}
+@-webkit-keyframes slideTopRight {
+    100% { right: 0px; top: 0px; }
+}
+
+@keyframes slideTopRight {
+    100% { right: 0px; top: 0px;}
+}
+
+@-webkit-keyframes slideTopLeft {
+    100% { left: 0px; top: 0px; }
+}
+@keyframes slideTopLeft {
+    100% { left: 0px; top: 0px;}
+}
+
+@-webkit-keyframes slideBottomLeft {
+    100% { left: 0px; bottom: 0px; }
+}
+@keyframes slideBottomLeft {
+    100% { left: 0px; bottom: 0px;}
+}
+
+@-webkit-keyframes slideBottomRight {
+    100% { right: 0px; bottom: 0px; }
+}
+@keyframes slideBottomRight {
+    100% { right: 0px; bottom: 0px;}
+}
+.header::before, .header::after,
+.header-footer::before, .header-footer::after {
+	display: block;
+	content: '';
+	height: 45vh;
+	width: 45%;
+	position: absolute;
+}
+.header::before {
+	background:url('images/tl.png') no-repeat;
+	background-size: contain;
+	background-position: top left;
+	top:-500px;
+	left: -500px;
+	-webkit-animation: slideTopLeft 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slideTopLeft 0.5s forwards;
+    animation-delay: 2s;
+}
+.header::after {
+    top: -500px;
+    right: -500px;
+    background: url('images/tr.png') no-repeat;
+    background-size: contain;
+	background-position: top right;
+	-webkit-animation: slideTopRight 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slideTopRight 0.5s forwards;
+    animation-delay: 2s;
+}
+.header-footer::before {
+	background:url('images/bl.png') no-repeat;
+	background-size: contain;
+	background-position: bottom left;
+	bottom:-500px;
+	left: -500px;
+	-webkit-animation: slideBottomLeft 0.5s forwards;
+    -webkit-animation-delay: 2.5s;
+    animation: slideBottomLeft 0.5s forwards;
+    animation-delay: 2.5s;
+}
+.header-footer::after {
+    bottom: -500px;
+    right: -500px;
+    background: url('images/br.png') no-repeat;
+    background-size: contain;
+	background-position: bottom right;
+	-webkit-animation: slideBottomRight 0.5s forwards;
+    -webkit-animation-delay: 2.5s;
+    animation: slideBottomRight 0.5s forwards;
+    animation-delay: 2.5s;
+}
+.quote p {
+	font-style: italic;
+}
+.owl-carousel h4 {
+    border-bottom: solid 3px #4f7e48;
+    padding-bottom: 10px;
+}
+.owl-carousel .owl-nav {
+    text-align: center;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+    width: 45px;
+    height: 45px;
+    border: solid 1px #4f7e48;
+    color: #4f7e48;
+    border-radius: 50%;
+    margin: 5px;
+    font-size: 35px;
+    line-height: 1;
+}
+button.owl-next:hover,
+button.owl-prev:hover,
+button.owl-next:active,
+button.owl-prev:active,
+button.owl-next:focus,
+button.owl-prev:focus {
+    outline:none !important;
+    box-shadow: none !important;
+}
+footer {
+	position: relative;
+}
+footer img {
+	max-width: 100px;
+}
+footer small {
+	display: block;
+}
+footer::before {
+	display: block;
+	content: '';
+	height: 30vh;
+	width: 30%;
+	position: absolute;
+	z-index: 1;
+}
+footer::before {
+	background:url('images/bl.png') no-repeat;
+	background-size: contain;
+	background-position: bottom left;
+	bottom:0px;
+	left: 0px;
+}
+footer .col-md-12 {
+	z-index: 3;
+}
+.countdown {
+    background:url('images/side-right.png') no-repeat;
+    background-position: bottom right;
+    background-size: 15%;
+    padding-bottom: 170px;
+}
+.map {
+    background:url('images/side-right.png') no-repeat;
+    background-position: bottom right;
+    background-size: 20%;
+    padding-bottom: 170px;
+}
+.video {
+    background:url('images/side.png') no-repeat;
+    background-size: 20%;
+    padding-top: 170px;
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+	section {
+		padding-top: 30px !important;
+		padding-bottom: 30px !important;
+    }
+    footer::before, footer::after {
+        height: 10vh;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	h1 {
+        font-size: 70px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+.show-guest-book .container {
+    max-width: 600px;
+    max-height: 400px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    border: solid 1px #36715a;
+    border-radius: 20px;
+    position: relative;
+}
+.show-guest-book .media-comment {
+    border-bottom: solid 1px #d4d4d4;
+}

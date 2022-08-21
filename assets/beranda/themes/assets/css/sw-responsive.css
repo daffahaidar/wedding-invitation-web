@@ -1,0 +1,707 @@
+@media only screen and (min-width:999px) and (max-width:1290px) {
+  .work-process-block.proces-style-two .process-list>div:nth-child(4) {
+    margin-top: 100px;
+  }
+
+  .work-process-block.proces-style-two .process-list>div:nth-child(5) {
+    margin-top: 80px;
+  }
+
+  /*------------- SLIDER -----------------*/
+  .slider-1 .content-slider {
+    top: 30%;
+  }
+
+
+  .slider-1 .content-slider h4 {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  .slider-1 .content-slider h3 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    margin-bottom: 20px;
+    letter-spacing: -1px;
+
+  }
+
+  .slider-1 .content-slider p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+
+  /* ---------- ABOUTS --------- */
+  .img-abouts {
+    margin-top: 50px;
+    width: 100%;
+  }
+
+
+  /* --------- SERVICE 2 ------- */
+  .services-box-2 {
+    min-height: 290px;
+    padding: 30px 20px 30px 20px;
+
+  }
+
+  .services-box-2 .icon {
+    display: block;
+    position: relative;
+    margin-bottom: 10px;
+    background: #eee;
+    padding: 15px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+  }
+
+  .services-box-2 .icon img {
+    height: 50px;
+  }
+
+  /*---------- SERVICE --------- */
+  .services-box {
+    margin-bottom: 30px;
+    min-height: 178px;
+    padding: 30px 10px 20px 10px;
+  }
+
+  .services-title i {
+    margin-right: 15px;
+    font-size: 30px;
+  }
+
+  .services-box h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  /* --------- SERVICE STEP MENDAFTAR -----------*/
+  .setps-content li {
+    cursor: pointer;
+    padding: 18px 30px;
+  }
+
+  /*---------- PILIH THEMA -----------------------*/
+  .sw-theme .desc {
+    padding: 20px 10px 30px 10px;
+  }
+
+  .sw-theme .desc a.btn-preview {
+    margin-bottom: 7px;
+  }
+
+
+  /*--------- BUTTON SHARE BERITA ------------- */
+  .button-share {
+    text-align: center;
+    padding: 12px 3px
+  }
+
+  .button-share>a {
+    padding: 18px 0 12px
+  }
+
+  .button-share i {
+    margin-right: 0;
+    font-size: 20px;
+    text-align: center;
+    display: table;
+    width: 100%;
+  }
+
+  .button-share span {
+    font-size: 14px
+  }
+
+
+  /*-------- SIDEBAR----------- */
+  .sidebar-wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+
+
+}
+
+@media only screen and (min-width: 760px) and (max-width: 991px) {
+
+  /*------------- SLIDER -----------------*/
+  .slider-1 .content-slider {
+    top: 20%;
+  }
+
+
+  .slider-1 .content-slider h4 {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  .slider-1 .content-slider h3 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 37px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+
+  }
+
+  .slider-1 .content-slider p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+
+  /* ---------- TITLE ---------- */
+  .area-title h2 {
+    font-size: 25px;
+  }
+
+  /* ---------- ABOUTS --------- */
+  .img-abouts {
+    margin-top: 50px;
+    width: 100%;
+  }
+
+  .sw-abouts-title h3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  /* --------- SERVICE 2 ------- */
+  .services-box-2 {
+    min-height: 300px;
+    padding: 30px 15px 20px 15px;
+
+  }
+
+  .services-box-2 .icon {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+  }
+
+  .services-box-2 .icon img {
+    height: 30px;
+  }
+
+  .services-box-2 .services-title {
+    margin-bottom: 5px;
+  }
+
+  .services-box-2 h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+
+  /*---------- SERVICE --------- */
+  .services-box {
+    margin-bottom: 30px;
+    min-height: 178px;
+    padding: 30px 10px 20px 10px;
+  }
+
+  .services-title i {
+    margin-right: 15px;
+    font-size: 30px;
+  }
+
+  .services-box h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  /* --------- SERVICE STEP MENDAFTAR -----------*/
+  .setps-content li {
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+
+  .step-content-text p {
+    font-size: 14px;
+    color: #82858b;
+    line-height: 24px;
+  }
+
+  /* ------------- COUNTER ------------------------*/
+  .sw-counter-grid h3 {
+    font-size: 40px;
+  }
+
+  .sw-counter-grid h4 {
+    font-size: 15px;
+  }
+
+  /*---------------- BLOG WIDTH --------------------------- */
+  .blog-post {
+    padding-bottom: 0px;
+  }
+
+  .blog-post .post-thumb {
+    width: 250px;
+    height: auto;
+    margin: 0;
+    background: #fff;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    float: left;
+  }
+
+  .blog-post .post-content {
+    width: auto;
+    padding: 20px;
+  }
+
+  .blog-post .post-content .post-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .blog-post .post-content .meta {
+    font-size: 13px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+
+  .blog-post .post-content .meta .meta-part {
+    margin-right: 10px;
+  }
+
+  .blog-post .post-content .meta .meta-part.views {
+    display: none;
+  }
+
+  .blog-post .post-content p {
+    display: none;
+  }
+
+  .pagination {
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+
+
+  /*---------- RELATED BLOG ---------------------- */
+  article .sw-related-grid {
+    margin-bottom: 15px;
+    position: relative;
+    display: inline-flex;
+  }
+
+  article .sw-related-grid figure {
+    position: relative;
+    float: left;
+  }
+
+  article .sw-related-grid figure {
+    width: 130px;
+    height: auto;
+    margin: 0;
+    padding-right: 10px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  article .sw-related-grid .content {
+    padding: 2px 0px;
+  }
+
+  /*--------- BUTTON SHARE BERITA ------------- */
+  .button-share {
+    text-align: center;
+    padding: 12px 3px
+  }
+
+  .button-share>a {
+    padding: 18px 0 12px
+  }
+
+  .button-share i {
+    margin-right: 0;
+    font-size: 18px;
+    text-align: center;
+    display: table;
+    width: 100%;
+  }
+
+  .button-share span {
+    font-size: 10px
+  }
+
+  /*-------- SIDEBAR----------- */
+  .sidebar-wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  /*--------- MENU FOOTER -------------*/
+  .navbar-footer {
+    display: inline-block;
+  }
+
+  /* -------- FOOTER -------------------------------*/
+  .footer-widget {
+    min-height: auto;
+    clear: both;
+    position: relative;
+  }
+
+}
+
+@media only screen and (max-width: 998px) {
+
+  /*---------------- PROSES -----------------------*/
+  .bg-line {
+    display: none;
+  }
+
+  .work-process-block.proces-style-two .process-list>div:nth-child(2) {
+    margin-top: auto;
+  }
+
+  .work-process-block.proces-style-two .process-list>div:nth-child(3) {
+    margin-top: auto;
+  }
+
+  .work-process-block.proces-style-two .process-list>div:nth-child(4) {
+    margin-top: auto;
+  }
+
+  .work-process-block.proces-style-two .process-list>div:nth-child(5) {
+    margin-top: auto;
+  }
+}
+
+@media only screen and (max-width:755px) {
+
+  /*------------- SLIDER -----------------*/
+  .slider-1 .content-slider {
+    top: 22%;
+    margin-left: 20px;
+  }
+
+  .slider-1 .content-slider h3 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+    text-align: left;
+
+  }
+
+  .slider-1 .content-slider p {
+    display: none;
+  }
+
+  .slider-1 .content-slider a.btn-slider {
+    font-size: 14px;
+    padding: 13px 17px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-weight: 400;
+  }
+
+
+  /* ---------- TITLE ---------- */
+  .area-title h2 {
+    font-size: 25px;
+  }
+
+  .area-title p {
+    padding: 0 5px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    line-height: 24px;
+    color: #9a9a9a;
+    font-size: 15px;
+  }
+
+  /* ---------- ABOUTS --------- */
+  .img-abouts {
+    margin-top: 0px;
+    width: 100%;
+    box-shadow: none;
+  }
+
+  .sw-abouts-title h3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  /* --------- SERVICE 2 ------- */
+  .services-box-2 {
+    min-height: 100px;
+    padding: 30px 15px 20px 15px;
+
+  }
+
+  .services-box-2 .icon {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    overflow: hidden;
+  }
+
+  .services-box-2 .icon img {
+    height: 45px;
+  }
+
+  .services-box-2 .services-title {
+    margin-bottom: 5px;
+  }
+
+  .services-box-2 h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+
+  /*---------- SERVICE --------- */
+  .services-box {
+    margin-bottom: 30px;
+    min-height: 100px;
+    padding: 30px 15px 20px 15px;
+  }
+
+  .services-title i {
+    margin-right: 15px;
+    font-size: 30px;
+  }
+
+  .services-box h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+
+  /* ------------- COUNTER ------------------------*/
+  .sw-counter-grid {
+    margin: 20px 0px;
+  }
+
+  .sw-counter-grid h3 {
+    font-size: 30px;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+  }
+
+  .sw-counter-grid h4 {
+    font-size: 14px;
+  }
+
+  /* --------- SERVICE STEP MENDAFTAR -----------*/
+  .setps-content li {
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+
+  .step-content-text p {
+    font-size: 14px;
+    color: #82858b;
+    line-height: 24px;
+  }
+
+  /*-------------- TEAM ------------------------------*/
+  .single-team-box {
+    height: auto !important;
+    margin-bottom: 20px;
+  }
+
+  /*-------------- theme ------------------------------*/
+  .sw-theme figure {
+    width: 100%;
+    height: auto;
+  }
+
+  .sw-theme figure img {
+    width: 100%;
+    height: auto;
+  }
+
+  /*---------------- BLOG WIDTH --------------------------- */
+  .blog-post {
+    padding-bottom: 10px;
+  }
+
+  .blog-post .post-thumb {
+    width: 160px;
+    height: auto;
+    margin: 0;
+    padding-right: 10px;
+    background: #fff;
+    overflow: hidden;
+    padding: 10px;
+    position: relative;
+    float: left;
+  }
+
+  .blog-post .post-content {
+    width: auto;
+    padding: 10px;
+  }
+
+  .blog-post .post-content .post-title {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+
+  .blog-post .post-content .meta {
+    font-size: 13px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+
+  .blog-post .post-content .meta .meta-part {
+    margin-right: 10px;
+  }
+
+  .blog-post .post-content .meta .meta-part.views {
+    display: none;
+  }
+
+  .blog-post .post-content p {
+    display: none;
+  }
+
+  .pagination {
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+
+
+  /*---------- RELATED BLOG ---------------------- */
+  article .sw-related-grid {
+    margin-bottom: 15px;
+    position: relative;
+    display: inline-flex;
+  }
+
+  article .sw-related-grid figure {
+    position: relative;
+    float: left;
+  }
+
+  article .sw-related-grid figure {
+    width: 130px;
+    height: auto;
+    margin: 0;
+    padding-right: 10px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  article .sw-related-grid .content {
+    padding: 2px 0px;
+  }
+
+
+
+  article .singgle-article .widget-content {
+    margin: 0px 0px 40px;
+  }
+
+  /*--------- BUTTON SHARE BERITA ------------- */
+  .button-share {
+    text-align: center;
+    padding: 12px 3px
+  }
+
+  .button-share>a {
+    padding: 18px 0 12px
+  }
+
+  .button-share i {
+    margin-right: 0;
+    font-size: 18px;
+    text-align: center;
+    display: table;
+    width: 100%;
+  }
+
+  .button-share span {
+    font-size: 10px
+  }
+
+
+  /*-------- SIDEBAR----------- */
+  .sidebar-wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+
+  /*-------- 404----------- */
+  .not-found img {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+
+
+  /*-------------- SERVICE AREA ----------*/
+  .contact-info-item:after {
+    display: none;
+  }
+
+  .contact-info-item {
+    margin-bottom: 10px;
+  }
+
+  .contact-info-text {
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 0px;
+  }
+
+  /*--------- MENU FOOTER -------------*/
+  .navbar-footer {
+    display: inline-block;
+  }
+
+  /* -------- FOOTER -------------------------------*/
+  .footer-widget {
+    min-height: auto;
+    clear: both;
+    position: relative;
+  }
+
+  /* -------- SUBSCRIBE -------------------------------*/
+  .subscribe-form .form-control {
+    outline: none;
+    width: 91%;
+  }
+
+  .copyright p {
+    line-height: 20px;
+  }
+
+  .sm-hidden {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:780px) and (min-width:450px) {
+
+  /*--------------------- PROSES -------------------*/
+  .process-list .single-process .process-step {
+    font-size: 18px;
+  }
+}
+
+@media (max-width:480px) {
+
+  /*---------- PROCCESS ---------- */
+  .process-list .single-process .process-step {
+    font-size: 18px;
+  }
+}

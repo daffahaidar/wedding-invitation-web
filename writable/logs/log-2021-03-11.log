@@ -1,0 +1,617 @@
+INFO - 2021-03-11 00:06:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 00:09:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 00:09:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 00:09:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 00:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:14:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:14:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:14:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:14:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:36:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:36:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:38:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:38:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:40:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 00:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:41:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 00:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:59:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 00:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 00:59:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:22 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 01:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 01:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 01:02:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 01:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:02:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:03:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:06:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:06:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:07:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:07:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:07:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:08:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:08:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:08:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:08:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:08:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:09:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:09:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:18:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:19:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 01:19:09 --> Call to a member function clear() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 01:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:19:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:19:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 01:19:28 --> Call to a member function clear() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 01:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:19:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:19:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 01:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:24:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:24:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 01:24:42 --> Call to a member function cache() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 01:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:24:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:29:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:30:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 01:30:29 --> Call to a member function cache() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 01:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:30:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:30:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:30:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:31:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:31:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:31:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:32:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:34:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:35:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:37:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:37:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:38:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:38:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:38:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:39:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 01:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:50:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 01:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 01:51:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 02:29:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 03:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 03:25:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 03:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 03:56:33 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 03:56:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 07:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 07:05:05 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 07:09:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 08:06:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 08:09:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 08:40:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 09:02:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 09:45:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 10:14:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 10:16:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 11:18:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 11:49:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 13:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:51:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:51:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:51:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:51:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:52:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 13:52:10 --> Call to undefined function App\Controllers\base\delete_cookie()
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 13:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:52:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-03-11 13:54:57 --> Call to a member function helper() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 13:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:57:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:58:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 13:58:07 --> Argument 2 passed to delete_cookie() must be of the type string, null given, called in /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php on line 234
+#0 /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php(234): delete_cookie(NULL, NULL, 'assets/users/7c...', NULL)
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-11 13:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:58:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:58:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 13:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 13:59:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:00:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:00:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:00:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:01:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:01:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 14:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:01:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:01:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:01:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:10:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 14:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 14:10:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 14:10:55 --> Call to a member function delete_cache() on null
+#0 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_foto_mempelai()
+#1 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-03-11 16:49:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 17:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:11:40 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:11:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:11:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 17:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:26 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:39 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:12:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-03-11 17:12:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 17:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 17:13:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 17:13:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 17:13:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 17:35:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:04:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:04:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 19:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 19:58:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 19:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 19:58:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 19:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 19:58:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 19:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 19:58:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-03-11 19:58:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:58:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:58:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:58:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:59:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 19:59:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 20:06:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 20:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:06:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:07:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:07:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:07:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:07:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:07:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:08:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:12:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:12:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:13:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:14:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:14:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:14:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:14:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:14:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:15:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:17:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:17:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:17:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:18:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:18:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:18:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:18:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:19:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:20:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:21:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:26:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 20:26:24 --> syntax error, unexpected '$kunci' (T_VARIABLE)
+#0 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#1 /home/aguestpdmy/public_html/ngulemind/app/Views/base/dashboard/layout.php(137): view('base/dashboard/...')
+#2 /home/aguestpdmy/public_html/ngulemind/system/View/View.php(236): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php(207): view('base/dashboard/...', Array)
+#5 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->mempelai()
+#6 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-11 20:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:26:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 20:26:26 --> syntax error, unexpected '$kunci' (T_VARIABLE)
+#0 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#1 /home/aguestpdmy/public_html/ngulemind/app/Views/base/dashboard/layout.php(137): view('base/dashboard/...')
+#2 /home/aguestpdmy/public_html/ngulemind/system/View/View.php(236): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php(207): view('base/dashboard/...', Array)
+#5 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->mempelai()
+#6 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-11 20:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:26:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 20:26:27 --> syntax error, unexpected '$kunci' (T_VARIABLE)
+#0 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#1 /home/aguestpdmy/public_html/ngulemind/app/Views/base/dashboard/layout.php(137): view('base/dashboard/...')
+#2 /home/aguestpdmy/public_html/ngulemind/system/View/View.php(236): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php(207): view('base/dashboard/...', Array)
+#5 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->mempelai()
+#6 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-11 20:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:26:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-03-11 20:26:28 --> syntax error, unexpected '$kunci' (T_VARIABLE)
+#0 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#1 /home/aguestpdmy/public_html/ngulemind/app/Views/base/dashboard/layout.php(137): view('base/dashboard/...')
+#2 /home/aguestpdmy/public_html/ngulemind/system/View/View.php(236): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/ngulemind/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /home/aguestpdmy/public_html/ngulemind/app/Controllers/base/Dashboard.php(207): view('base/dashboard/...', Array)
+#5 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->mempelai()
+#6 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/aguestpdmy/public_html/ngulemind/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/ngulemind/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-11 20:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 20:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:27:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:28:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:29:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:29:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:29:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 20:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:29:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:29:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:30:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:35:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:35:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:36:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:38:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 20:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 20:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 20:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:39:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:41:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:41:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:41:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:42:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 20:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:42:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 20:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 20:42:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-03-11 21:52:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 21:52:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 21:54:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 22:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 22:19:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 22:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-03-11 22:47:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-03-11 22:56:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 23:04:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-03-11 23:11:50 --> Controller "App\Controllers\base\Beranda" loaded.

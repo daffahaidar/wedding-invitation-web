@@ -1,0 +1,293 @@
+INFO - 2020-03-23 17:35:30 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 17:35:30 --> Call to a member function getResult() on null
+#0 /var/www/html/CodeIgniter4/system/View/View.php(236): include()
+#1 /var/www/html/CodeIgniter4/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(50): view('modernrose')
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 17:35:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 17:35:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 17:35:55 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 17:35:55 --> Call to a member function getResult() on null
+#0 /var/www/html/CodeIgniter4/system/View/View.php(236): include()
+#1 /var/www/html/CodeIgniter4/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(50): view('modernrose')
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 17:35:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 17:36:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 17:36:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 17:36:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 18:29:10 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 18:29:10 --> Call to a member function getResult() on null
+#0 /var/www/html/u.akadku.com/system/View/View.php(236): include()
+#1 /var/www/html/u.akadku.com/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/u.akadku.com/app/Controllers/Anu.php(50): view('modernrose')
+#3 /var/www/html/u.akadku.com/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/u.akadku.com/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/u.akadku.com/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/u.akadku.com/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 18:29:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 18:29:50 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 18:29:50 --> Call to a member function getResult() on null
+#0 /var/www/html/akadku/undangan/system/View/View.php(236): include()
+#1 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/akadku/undangan/app/Controllers/Anu.php(50): view('modernrose')
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 18:29:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:26:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:27:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:27:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:27:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:28:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:52 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:29:59 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 19:29:59 --> Call to a member function getResult() on null
+#0 /var/www/html/akadku/undangan/system/View/View.php(236): include()
+#1 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/akadku/undangan/app/Controllers/Anu.php(51): view('modernrose')
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 19:30:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:30:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:32:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:32:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:33:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:33:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:33:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:34:36 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 19:34:36 --> syntax error, unexpected end of file
+#0 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#1 /var/www/html/akadku/undangan/app/Controllers/Anu.php(43): view('modernrose', Array)
+#2 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-23 19:35:04 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 19:35:04 --> syntax error, unexpected end of file
+#0 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#1 /var/www/html/akadku/undangan/app/Controllers/Anu.php(43): view('modernrose', Array)
+#2 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-23 19:35:06 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 19:35:06 --> syntax error, unexpected end of file
+#0 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#1 /var/www/html/akadku/undangan/app/Controllers/Anu.php(43): view('modernrose', Array)
+#2 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-23 19:35:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:35:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:41:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:41:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:41:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:41:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:42:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:42:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:42:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:54:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:54:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:54:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:54:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:54:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:55:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:55:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:55:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:58:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:35 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 19:59:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:00:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:01:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:02:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:02:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:02:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:03:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:05:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:05:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:05:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:06:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:06:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:06:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:13:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:13:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:13:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:13:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:14:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:19:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:19:26 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:19:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:20:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:21:10 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:21:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:21:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:22:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:22:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:22:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:23:10 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:23:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:23:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:24:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:25:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:26 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:29:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:31:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:32:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:32:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:33:26 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:33:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:34:08 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:37:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:37:09 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:37:09 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:37:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:37:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:38:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:38:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:39:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:39:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:40:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:41:10 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:41:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:41:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:42:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:42:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:43:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:43:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:43:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:43:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:43:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:45:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:46:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:46:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:46:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:46:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:49:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:49:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:49:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:49:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 20:49:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:01:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:01:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:02:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:02:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:02:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:03:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:03:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:03:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:03:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:03:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:09:09 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-23 21:09:09 --> Call to a member function getResult() on null
+#0 /var/www/html/akadku/undangan/system/View/View.php(236): include()
+#1 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/akadku/undangan/app/Controllers/Anu.php(51): view('modernrose')
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-23 21:09:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:09:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:10:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:10:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:10:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-23 21:11:15 --> Controller "App\Controllers\Anu" loaded.

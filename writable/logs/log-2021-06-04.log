@@ -1,0 +1,1829 @@
+INFO - 2021-06-04 01:15:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 01:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 01:24:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 01:25:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 01:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 01:46:25 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-06-04 01:50:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 02:02:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 02:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 02:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 02:03:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 02:04:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 02:07:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 02:28:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 03:04:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 03:48:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 03:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 03:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 03:53:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 04:01:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:01:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:01:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:01:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:28:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:58:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 04:58:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 05:50:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 05:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 05:51:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 06:18:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 06:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:19:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 06:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:19:41 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 06:19:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 06:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:20:20 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 06:20:56 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-04 06:20:56 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/hwflower.php(702): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 702, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-04 06:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:21:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 06:22:10 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-04 06:22:10 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/tealflower.php(744): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 744, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-04 06:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:22:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 06:23:21 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-04 06:23:21 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/greenflower.php(704): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 704, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-04 06:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 06:23:58 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 06:24:33 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-04 06:24:33 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/prettyflower.php(708): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 708, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-04 06:25:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:10:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:12:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:12:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:12:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:15:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:15:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:19:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:19:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:20:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:26:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:32:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:36:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:57:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:57:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 08:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 08:57:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 08:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 08:58:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:32:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:32:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:32:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:32:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:32:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:34 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:37 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:33:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:33:37 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:29 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:37:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:37:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:18 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:24 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:26 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:26 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:26 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:26 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/home/nguh5634/...', 787, Array)
+#1 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(787): count(Object(CodeIgniter\Database\MySQLi\Result))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-06-04 10:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:38:55 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:38:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:39:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:39:02 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:39:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:39:04 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:41:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT COUNT(`i...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(`i...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(`i...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(`i...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:41:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT COUNT(`i...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(`i...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(`i...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(`i...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:41:55 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT COUNT(`i...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(`i...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(`i...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(`i...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:41:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:41:55 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT COUNT(`i...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(`i...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(`i...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(`i...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:30 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:31 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:32 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:32 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:32 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:32 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:33 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:33 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:33 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:33 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:33 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 10:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:39 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:41 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:41 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:41 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:41 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:42 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:42 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:42 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:42 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:42 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:42:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:42:43 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:43:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:43:30 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:45:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:45:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:45:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 10:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:45:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:45:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:45:40 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:47:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:47:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 10:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:47:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:47:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:47:49 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:49:40 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:49:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 10:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:49:47 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:49:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:49:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 10:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:58:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 10:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:58:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 10:58:58 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(380): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 10:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 10:58:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:00:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:00:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:00:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:00:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:01:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:01:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:01:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:02:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:02:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:02:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:02:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:03:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:03:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:03:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:03:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:04:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:04:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:04:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:04:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:04:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:05:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:05:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:05:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:05:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:06:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:06:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:06:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:06:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:07:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:50 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:52 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:53 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:07:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:07:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:10:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:10:28 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:10:35 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:10:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:11:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:11:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:56 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:58 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:58 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:59 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:59 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:59 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:12:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:12:59 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 11:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:13:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:13:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:13:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:04 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:07 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:07 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:07 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:14:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:14:07 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:15:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:15:22 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:16:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:16:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:16:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:16:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:16:23 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:16:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:36 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:19:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:46 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:51 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:19:54 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:19:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:20:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:20:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:20:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:20:06 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:20:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:21:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:21:51 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(382): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:21:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:21:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:21:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:21:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:21:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:21:58 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(382): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:22:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:23:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:23:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:23:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:23:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:23:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:23:48 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(382): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:24:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:25:48 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:25:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:26:39 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 11:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:26:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 11:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-04 11:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 11:26:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-06-04 11:26:48 --> Unknown column '8935fbf2023620e8c155b09b7674e684' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/base/DashboardModel.php(378): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(785): App\Models\base\DashboardModel->cek_hadir('8935fbf2023620e...')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_hadir()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 12:00:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:00:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:01:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:01:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:01:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:06:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 12:49:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 13:00:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 13:01:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 13:43:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 14:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 14:02:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 14:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 14:02:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 14:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 14:02:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 14:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 14:02:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 14:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 14:02:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 15:06:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 15:06:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 15:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 15:09:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2021-06-04 15:09:34 --> Unknown column 'bon' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/undangan/UndanganModel.php(53): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/undangan/Undangan.php(88): App\Models\undangan\UndanganModel->cek_tamu('1', 'bon%20jovi')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-06-04 15:09:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 15:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 15:09:56 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 15:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 15:10:10 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 15:10:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 15:10:47 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-04 15:10:47 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/greenflower.php(704): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 704, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-04 15:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 15:32:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-06-04 16:42:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:42:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 16:45:22 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-04 18:08:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 18:14:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 18:49:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 18:59:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 20:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-04 20:30:05 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-04 21:59:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-04 22:45:37 --> Controller "App\Controllers\base\Beranda" loaded.

@@ -1,0 +1,1558 @@
+/* --------------------------------
+Custom Beautiful Floral
+Author: Kalaujodoh.com
+Design and Developed by: Kalaujodoh.com Undangan Online
+------------------------------------
+*/
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700&display=swap');
+ /* ---------------------------------------------
+    DEFAULT
+-------------------------------------------------*/
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/Flaticon.eot");
+  src: url("../font/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../font/Flaticon.woff2") format("woff2"),
+       url("../font/Flaticon.woff") format("woff"),
+       url("../font/Flaticon.ttf") format("truetype"),
+       url("../font/Flaticon.svg#Flaticon") format("svg");
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../font/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+}
+
+.flaticon-wedding-rings:before { content: "\f100"; }
+.flaticon-dinner:before { content: "\f101"; }
+.flaticon-wedding:before { content: "\f102"; }
+
+
+a {
+    color: #555;
+    text-decoration: none;
+    outline:none!important;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #777;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    outline: 0;
+}
+
+:focus {
+  outline: 0;
+}
+
+
+a img {
+    border: none;
+}
+
+label {
+    width: 100%;
+    color: #373435;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+::-webkit-scrollbar-track {
+    background: rgba(225,225,225,0.3);
+    padding: 0 3px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: rgba(225,225,225,0.5);
+    border-radius: 4px;
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Merriweather', serif;
+}
+
+html {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/* view content center */
+
+.vs-center-wrap {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.vs-center {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* mainviews */
+
+.mainbag {
+    position: relative; /* for any left/right separation */
+    overflow-y: hidden; /* for jQuery scrolls only */
+    height: 100%;
+    width: 100%; /* if 100% then you can't use left/right separation */
+}
+
+.mainview {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    vertical-align: bottom;
+    white-space: normal;
+}
+
+/* subviews */
+
+.subbag {
+    overflow: hidden;
+    height: 100%;
+    white-space: nowrap;
+    font-size: 0;
+}
+
+.subview {
+    position: relative; /* important for any centered content inside subviews */
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    vertical-align: bottom;
+    white-space: normal;
+}
+
+
+.navbar-mobile {
+    position: fixed;
+    right: 10px;
+    top: 50vh;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+
+  .navbar-mobile ul{
+    padding:0px;
+    margin:0px;
+  }
+
+  .navbar-mobile ul li{
+    list-style: none;
+    text-align: center;
+    background: #593D42;
+    text-align: center;
+    height:35px;
+    width: 35px;
+    border-radius:50%;
+    margin-bottom: 5px;
+    box-shadow: 0px 2px 10px 0 rgba(0,0,0,0.1);
+    border: solid 1px #DBB777;
+  }
+
+  .navbar-mobile ul li:hover{
+    background:#221719;
+  }
+
+ .navbar-mobile ul li .active {
+    color: #DBB777;
+ }
+ 
+  .navbar-mobile li a{
+    color: #DBB777;
+  }
+
+  .navbar-mobile li a:hover{
+     color: #DBB777;
+    
+  }
+
+  .navbar-mobile ul li a i{
+      font-size:14px;
+      line-height:34px;
+  }
+
+  .navbar-mobile ul li a p{
+      font-size:10px;
+      padding:5px 0px 0px;
+      line-height: 0px;
+      display: none;
+    }
+
+/* ----------------------------------------
+    MODAL
+-------------------------------------------*/
+.modal-content {
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border:none;
+    border-radius: 0px;
+    outline: 0;
+    -webkit-box-shadow: 0px 1px 40px 0 rgba(0,0,0,0.1);
+    box-shadow: 0px 1px 40px 0 rgba(0,0,0,0.1);
+    margin:auto;
+}
+
+.modal-content .close{
+    opacity: 1;
+    font-size:25px;
+}
+
+
+#formMessages {
+    color:#36A9DF;
+    font-size:17px;
+    font-weight: 600;
+}
+
+#over-lay-welcome {
+    position:fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255,255,255,0.9);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0px;
+    cursor: pointer;    
+    z-index:9999;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-family: 'Roboto' sans-serif;
+}
+#over-lay-welcome{
+    font-size:17px;
+}
+
+#over-lay-welcome h4{
+    font-size:22px;
+    font-weight:600;
+    padding: 0px;
+    text-transform: uppercase;
+}
+#over-lay-welcome img{
+    display : block;
+    margin-left: auto;
+    margin-right : auto;
+}
+/*----------------------------------
+    SW CONTENT UNDANGAN
+------------------------------------*/
+.sw-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+.sw-content-inner {
+    width: 100%;
+    height: 100%;
+    padding:35px;
+    font-family: 'Merriweather', serif;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.sw-content-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.sw-content-inner p {
+    font-size: 18px;
+    line-height: 22px;
+    color: #EEE0AF;
+}
+
+.sw-content-inner h2 {
+    font-size:40px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+
+/* =================================================
+    CUSTOM TEMPLATE
+=======================================================*/
+    .sw-invitation-wrapper{
+        background:url('./img/sw-element-6.jpg') top center no-repeat,
+        url('./img/sw-element-5.jpg') bottom center no-repeat,
+        rgba(89, 61, 66);
+        background-size:20%;
+        background-repeat: no-repeat;
+    }
+
+
+    .sw-invitation-home{
+        background:url(./img/sw-wedding-invitation.png) no-repeat center center;
+        background-size:100%;
+        width:600px;
+        height: 400px;
+        padding:40px;
+        margin: auto;
+        text-align: center;
+        color:#ECDCA9;
+        z-index: 9;
+
+    }
+
+    .sw-invitation-home .sw-content{
+        margin-top:90px;
+        z-index: 9 ;
+    }
+      
+    .sw-invitation-home .sw-content h2{
+        font-size:50px;
+        font-weight:200;
+        padding: 0px;
+        font-family: 'Merriweather', serif;
+    }
+
+    .sw-invitation-home .sw-content h3{
+        font-size:25px;
+        font-weight: 400;
+        padding: 0px;
+        font-family: 'Merriweather', serif;
+        letter-spacing: -1px;
+    }
+
+    .sw-invitation-home .sw-content p{
+        font-size:16px;
+        font-weight:600;
+        padding: 0px;
+    }
+
+    .sw-invitation-home .sw-content .sw-timer{
+        font-size:18px;
+        font-weight: 600;
+    }
+
+
+/*------------------------------------
+    MEMPELAI
+-------------------------------------*/
+.sw-mempelai-warpper {
+    background:url(./img/sw-cover-mempelai.jpg) repeat;
+    position: relative;
+    text-align: center;
+}
+
+.sw-mempelai-warpper .over {
+    background:#fff;
+    background-size:10%;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    display: block;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+}
+
+.sw-el-top {
+    margin-bottom:20px;
+}
+
+.sw-el-bottom {
+    margin-top:20px;
+}
+
+p.sw-opening{
+    padding: 0px 50px 0px 50px;
+    font-size:16px;
+    font-family: 'Merriweather', serif;
+    color: #593d42;
+}
+
+.sw-mempelai{
+    margin:30px 0px 20px;
+    z-index: 9;
+    color: #593d42;
+}
+
+.sw-mempelai figure{
+    margin:auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.sw-mempelai figure img{
+    height: 220px;
+    width: 220px;
+    -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 1px 40px 0 rgba(0,0,0,0.1);
+}
+
+.sw-mempelai h2{
+    font-size:28px;
+    margin-bottom: 10px;
+    color:#593d42;
+}
+p.sw-binti {
+    font-size: 15px!important;
+    color: #593d42;
+}
+
+/*------------------------------
+    AKAD RESEPSI
+------------------------------------*/
+.sw-akad-resepsi-rapper{
+   background: url(./img/sw-element-1.jpg) top left no-repeat,
+    url(./img/sw-element-2.jpg) top right no-repeat,
+    url(./img/sw-element-3.jpg) bottom right no-repeat,
+    url(./img/sw-element-4.jpg) bottom left no-repeat,rgba(89, 61, 66);
+    background-repeat: no-repeat;
+    background-size:15%;
+    position: relative;
+    text-align: center;
+}
+
+.sw-akad-resepsi-rapper .over {
+    background:rgba(255, 255, 255, 0.7);
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    display: block;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+
+.sw-akad-resepsi {
+    padding:50px 30px 30px 30px;
+    margin: 100px 20px 10px;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    background:url('./img/sw-line.png') center 110px no-repeat;
+    transition: all 0.4s ease-in-out;
+}
+
+.sw-akad-resepsi .sw-icon{
+    height:90px;
+    width: 90px;
+    margin: auto;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 50px;
+    
+    border-radius: 50%;
+    color: #ECDCA9;
+    box-shadow: 0px 1px 40px 0 rgba(0,0,0,0.1);
+    font-size:40px;
+    text-align: center;
+    line-height:89px;
+    border:dashed 2px #ECDCA9;
+}
+
+.sw-akad-resepsi h3 {
+    font-size:30px;
+    font-weight:500;
+    line-height: 100%;
+    margin-bottom:35px;
+    color: #ECDCA9;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    
+}
+
+.sw-akad-resepsi p{
+    line-height: 30px;
+    font-size:15px;
+}
+
+.sw-akad-resepsi a {
+    font-size: 14px;
+    padding:8px 10px;
+    background:#DBB777;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    color: #333333;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px; 
+}
+
+.sw-akad-resepsi a:hover {
+    background:#232323;
+    color: #ffffff;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;   
+}
+
+
+/* -----------------------------------------
+    STORY
+----------------------------------------------*/
+.sw-story-wrapper{
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    text-align: center;
+}
+
+.sw-story-wrapper .over {
+    background: url(./img/sw-cover-snow.gif) repeat,
+    rgba(255,255,255);
+    background-size: 10%;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    display: block;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+}
+
+.sw-story {
+    padding: 60px;
+    z-index: 9;
+    color: #593D42;
+}
+
+.sw-story h2{
+    font-size:45px;
+    font-weight:500;
+    margin-bottom:30px;
+    color: #593D42;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+}
+ 
+ .sw-story p{
+    font-size:16px;
+    font-weight:500;
+    line-height: 28px;
+    color: #593D42;
+    text-align: center;
+}
+
+
+
+/*----------------------------------
+    GALLERY
+------------------------------------ */
+.sw-content-gallery{
+    overflow: hidden;
+
+}
+
+.sw-content-gallery h2{
+    margin-bottom: 40px;
+    color: #593d42;
+}
+
+
+.sw-gallery{
+	position: relative;
+	height: auto;
+	-webkit-border-radius:0px;
+	border-radius: 0px; 
+	margin:5px 0px;
+	overflow: hidden;
+}
+
+.sw-gallery img{
+	object-position: center;
+  object-fit: cover;
+  width: 200px;
+  height: 150px;
+	transition-duration:0.4s;
+	overflow: hidden;
+}
+
+
+.sw-gallery .sw-gallery-overlay {
+    position: absolute;
+    padding: 0px;
+    color: #fff;
+    bottom: 20px;
+    right: 20px;
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+
+.sw-gallery .sw-gallery-overlay i{
+  font-size:20px;
+}
+
+.sw-gallery:hover .sw-gallery-overlay{
+    opacity:1;
+}
+
+.sw-gallery:hover img{
+     transform: scale(1.1);
+     opacity: 0.7;
+}
+
+/* --------------------------------
+    BUKU TAMU FORM
+--------------------------------------*/
+.sw-form-wrapper{
+    background:url('./img/sw-element-1.jpg') top left no-repeat,
+    url('./img/sw-element-3.jpg') bottom right no-repeat,
+    rgba(89, 61, 66);
+    background-repeat: no-repeat;
+    background-size:15%;
+    position: relative;
+    text-align: center;
+}
+
+.sw-form-wrapper h2{
+    color: #DBB777;
+}
+
+.sw-form {
+    margin-top:30px;
+    padding:30px;
+}
+
+body input[type="text"],
+body input[type="email"],
+body input[type="url"],
+body input[type="tel"],
+body input[type="number"],
+body input[type="date"],
+body input[type="text"], body textarea, body .form-control,
+select {
+    width: 100%;
+    height: auto;
+    border:solid 1px #DBB777;
+    background: #DBB777;
+    margin-bottom: 20px;
+    padding: 11px 10px;
+    color: #111111;
+    font-weight: 500;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    border-radius: 0px;
+    -moz-border-radius:0px;
+}
+
+body input::placeholder,
+body textarea::placeholder {
+  color: #111111!important;
+}
+
+body input::-webkit-input-placeholder,
+body textarea::-webkit-input-placeholder {
+  color: #111111!important;
+}
+
+body input:-moz-placeholder,
+body textarea:-moz-placeholder{
+   color: #111111!important; 
+}
+
+
+body input[type="text"]:focus,
+body input[type="email"]:focus,
+body input[type="url"]:focus,
+body input[type="tel"]:focus,
+body input[type="number"]:focus,
+body input[type="date"]:focus,
+body input[type="range"]:focus,
+body input[type="password"]:focus,
+body input[type="text"]:focus,
+body textarea:focus, body .form-control:focus {
+    outline: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    border-color:#000000;
+}
+
+select {
+    background: #fff;
+    width: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    color: #111111;
+}
+
+select:focus {
+    outline: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #999;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+body button[type="submit"] {
+    padding: 12px 25px;
+    background:#dbb777;
+    font-size: 13px;
+    color: #111111;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;     
+}
+body button[type="submit"] i{
+    margin-right: 5px;
+}
+
+body button[type="submit"]:hover,
+body button[type="submit"]:focus {
+    background:#c7a15d;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    border: none;
+}
+
+
+body .comments-area .btn {
+    border-radius: 0;
+}
+
+
+body fieldset label {
+    font-size: 13px;
+    color: #111111;
+    font-weight: 500;
+    border-bottom: 2px solid #dcdee4;
+    padding: 5px;
+    float: left;
+}
+        
+/*---------------------------------------
+    LOGO
+--------------------------------------*/
+
+.sw-logo-kalaujodoh{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    bottom:10px;
+}
+
+.sw-logo-kalaujodoh p{
+    color: #DBB777;
+    font-size: 15px;
+    text-align: center;
+    padding: 0px;
+}
+
+.sw-logo-kalaujodoh h3{
+    padding: 0px;
+    margin:auto;
+    color:#DBB777;
+}
+.sw-logo-kalaujodoh img{
+    height: 30px;
+    margin-top: 5px;
+    -ms-filter: grayscale(1) sepia(1);
+    -webkit-filter: grayscale(1) sepia(1);
+    -moz-filter: grayscale(1) sepia(1);
+    -o-filter: grayscale(1) sepia(1);
+    filter: grayscale(1) sepia(1);
+}
+
+
+
+/*-------------------------------------
+    COMMENT FACEBOOK
+-----------------------------------------*/
+.facebook-content{
+    padding:0px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    overflow-x:auto;
+    max-height: 400px;
+}
+
+.facebook-content iframe{
+    max-width: 100%;
+}
+
+.fb-comments { 
+    width: 100%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #111111!important; 
+}
+
+.fb-comments,.fb_iframe_widget span,.fb_iframe_widget iframe{width:100%!important}
+#comments{display:none!important}
+
+.pluginFontHelvetica,
+.pluginFontHelvetica button,
+.pluginFontHelvetica label,
+.pluginFontHelvetica select, .pluginFontHelvetica td, {
+    color: #fff!important;
+}
+
+.pluginFontHelvetica a.UFICommentActorName{
+    color: #111111;
+}
+
+/* ----------------------------------------
+    SOCIAL CHARE
+-------------------------------------------*/
+.social-share {
+    position: relative;
+    text-align: center;
+}
+
+.social-share ul{
+    padding: 0px;
+}
+
+.social-share li{
+    list-style: none;
+    display: inline-block;
+}
+.social-share li a{
+    background: #111111;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    margin:10px;
+    display: inline-block;
+}
+
+.social-share li a:hover{
+    opacity: 0.8;
+}
+.social-share li a.facebook{
+    background: #3b5998;
+}
+
+.social-share li a.twitter{
+    background: #00acee;
+}
+
+.social-share li a.wa{
+    background: #00BFA5;
+}
+
+/* ----------------------------------------
+    RESPINSIVE
+-------------------------------------------*/
+
+@media only screen and (min-width:900px) and (max-width:1290px) {
+/*------------- invitation home --------------*/
+    .sw-invitation-wrapper {
+        background-size:30%;
+    }
+
+    .sw-invitation-home{
+        width: 600px;
+        height: 400px;
+        padding:55px;
+    }
+
+    .sw-invitation-home .sw-content h2{
+        font-size: 40px;
+    }
+/*------------- Resepsi -----------------*/
+    .sw-akad-resepsi {
+        padding: 40px 20px 20px 20px;
+        margin: 100px 20px 10px;
+    }
+
+} 
+
+@media screen and (max-width: 769px) {
+/*------------- invitation home --------------*/
+    .sw-invitation-wrapper {
+        background-size:30%;
+    }
+
+    .sw-invitation-home{
+        width:450px;
+        height:350px;
+        padding:50px;
+    }
+
+    .sw-invitation-home .sw-content {
+        margin-top:60px;
+        z-index: 9;
+    }
+
+    .sw-invitation-home .sw-content h2{
+        font-size:30px;
+    }
+/*----------- Mempelai ----------------*/
+    .sw-mempelai{
+        margin:20px 0px;
+    }
+
+    .sw-mempelai figure img {
+        height:120px;
+        width:120px;
+    }
+    .sw-mempelai h2{
+        margin:10px 0px;
+        font-size:25px;
+    }
+
+/*----------- Resepsi -----------*/
+    .sw-akad-resepsi-rapper .sw-content-inner{
+        padding:50px 30px;
+    }
+
+    .sw-akad-resepsi {
+        background: url(./img/sw-line.png) center 90px no-repeat;
+        padding:40px 10px 20px 10px;
+        margin:70px 0px 10px;
+    }
+    .sw-akad-resepsi .sw-icon {
+        height:100px;
+        width:100px;
+        top:0px;
+        font-size:40px;
+        text-align: center;
+        line-height: 100px;
+    }
+    .sw-akad-resepsi h3 {
+        font-size: 25px;
+        margin-bottom:30px;
+    }
+
+    .sw-akad-resepsi p {
+        line-height:28px;
+        font-size:17px;
+    }
+
+/*--------- Story -----------*/
+    .sw-story-wrapper .sw-content-inner {
+        width: 100%;
+        height: 100%;
+        padding:30px;
+    }
+
+    .sw-story-wrapper .sw-story {
+        padding: 20px;
+    }
+
+/* -------- Kehadiran ------------*/
+    .sw-form-wrapper .sw-content-inner{
+        padding:20px 40px;
+    }
+
+    body input[type="text"], body input[type="email"],
+    body input[type="url"],
+    body input[type="tel"],
+    body input[type="number"],
+    body input[type="date"],
+    body input[type="text"],
+    body textarea, body .form-control, select {
+        width: 100%;
+        margin-bottom:10px;
+        padding: 11px 10px;
+    }
+
+/* -------- Credit -------------*/
+    .sw-logo-kalaujodoh{
+        position: relative;
+        margin-top:20px;
+    }
+
+    .sw-logo-kalaujodoh p{
+        line-height: 26px;
+        padding: 0px;
+        margin: auto;
+    }
+
+    .sw-logo-kalaujodoh h3{
+        line-height: 26px;
+        margin:auto;
+    }
+
+}
+@media screen and (max-width: 600px) {
+/*------------- invitation home --------------*/
+    .sw-invitation-wrapper {
+        background-size:50%;
+    }
+
+    .sw-invitation-home{
+        width:350px;
+        height:300px;
+        padding:50px;
+    }
+
+    .sw-invitation-home .sw-content {
+        margin-top:50px;
+        z-index: 9;
+    }
+
+    .sw-invitation-home .sw-content h2{
+        font-size:20px;
+    }
+}
+
+@media screen and (max-width: 490px){
+    .sw-content-inner{
+        padding: 20px;
+    }
+
+    .sw-content-inner h2{
+        font-size:30px;
+        margin-bottom: 10px 0px 20px;
+    }
+
+/* ----------- NAVBAR ------------*/
+  .navbar-mobile ul li{
+    list-style: none;
+    text-align: center;
+    background: #232323;
+    text-align: center;
+    height:30px;
+    width: 30px;
+    border-radius:50%;
+    margin-bottom: 5px;
+    box-shadow: 0px 2px 20px 0 rgba(0,0,0,0.1);
+  }
+  .navbar-mobile ul li a i{
+    font-size: 13px;
+    line-height: 29px;
+  }
+
+/* ----------- invitation home ----------*/
+    .sw-invitation-wrapper {
+        background-size:50%;
+    }
+
+    .sw-invitation-home{
+        background-size: 100%;
+        height: 280px;
+        width: 370px;
+        padding: 10px;
+    }
+    .sw-invitation-home .sw-content{
+        margin-top:75px;
+    }
+
+    .sw-invitation-home .sw-content h2 {
+        font-size:20px;
+        font-weight: 400;
+        padding: 0px;
+    }
+
+    .sw-invitation-home .sw-content h3 {
+        font-size:16px;
+        margin:auto;
+    }
+
+    .sw-invitation-home .sw-content p,
+    .sw-invitation-home .sw-content .sw-timer{
+        font-size: 15px;
+        padding:0px 0px;
+        margin:auto;
+    }
+/*----------- Mempelai ----------------*/
+    .sw-el-top{
+        margin-bottom: 10px;
+    }
+
+    p.sw-opening {
+        padding: 0px 0px 0px 0px;
+        font-size:16px;
+        font-family: 'Merriweather', serif;
+    }
+    .sw-mempelai{
+        margin:10px 0px;
+        padding:10px;
+        background-color: rgba(255, 255, 255, 0.36);
+        border-radius:10px;
+    }
+
+    /*.sw-mempelai figure img {*/
+    /*    display: none;*/
+    /*    position: absolute;*/
+    /*    margin: auto;*/
+    /*    left: 0px;*/
+    /*    right: 0px;*/
+    /*    top: 40px;*/
+    /*    height:50px;*/
+    /*    width:50px;*/
+    /*    border:5px solid rgba(255,255,255,0.4);*/
+    /*}*/
+    .sw-mempelai h2{
+        margin:10px 0px;
+        font-size:20px;
+    }
+
+    .sw-content-inner p, p.sw-binti{
+        font-size: 15px!important;
+        line-height: 22px;
+    }
+
+/*----------- Resepsi -----------*/
+    .sw-akad-resepsi-rapper .sw-content-inner {
+        padding:20px 20px;
+    }
+
+    .sw-akad-resepsi {
+        padding:10px 10px 20px 10px;
+        margin:10px 0px 10px;
+        background: url(./img/sw-line.png) center 40px no-repeat;
+        background-size:35%;
+        transition: all 0.4s ease-in-out;
+    }
+
+    .sw-akad-resepsi .sw-icon {
+        display: none;
+    }
+    .sw-akad-resepsi h3 {
+        font-size: 20px;
+        margin:10px 0px;
+    }
+
+    .sw-akad-resepsi p {
+        line-height:23px;
+        font-size:15px!important;
+    }
+
+/*--------- Story -----------*/
+    .sw-story-wrapper .sw-content-inner {
+        width: 100%;
+        height: 100%;
+        padding:0px;
+        overflow-y: auto;
+    }
+
+    .sw-story-wrapper .sw-story {
+        padding: 20px;
+    }
+
+    .sw-story h2 {
+        font-size: 30px;
+        font-weight: 500;
+        margin-bottom:20px;
+    }
+
+    .sw-content-inner p, p.sw-binti {
+        font-size: 15px!important;
+        line-height:20px;
+    }
+
+/*---------- Gallery -------------*/
+    .sw-gallery {
+        margin: 4px 0px;
+        border:4px solid rgba(255,255,255,0.4);
+    }
+
+    .sw-gallery img {
+        max-height:90px;
+    }
+/* -------- Kehadiran ------------*/
+    .sw-form-wrapper .sw-content-inner{
+        padding:20px 20px;
+    }
+
+    .sw-form {
+        margin-top: 30px;
+        padding:20px 10px 20px;
+    }
+
+    body input[type="text"], body input[type="email"], body input[type="url"], body input[type="tel"], body input[type="number"], body input[type="date"], body input[type="text"], body textarea, body .form-control, select {
+        width: 100%;
+        margin-bottom:6px;
+        padding:5px 10px;
+        font-size:14px;
+    }
+
+/* -------- Credit -------------*/
+    .sw-logo-kalaujodoh{
+        position: relative;
+        margin-top:20px;
+    }
+
+    .sw-logo-kalaujodoh p{
+        line-height: 26px;
+        padding: 0px;
+        margin: auto;
+    }
+
+    .sw-logo-kalaujodoh h3{
+        line-height: 26px;
+        font-size: 18px;
+        margin:auto;
+    }
+
+}
+
+@media screen and (max-width:350px){
+    .sw-content-inner{
+        padding: 20px;
+    }
+
+    .sw-content-inner h2{
+        font-size:25px;
+        margin-bottom: 10px 0px 20px;
+    }
+
+/* ----------- NAVBAR ------------*/
+  .navbar-mobile ul li{
+    list-style: none;
+    text-align: center;
+    background: #593D42;
+    text-align: center;
+    height:30px;
+    width: 30px;
+    border-radius:50%;
+    margin-bottom: 5px;
+    box-shadow: 0px 2px 20px 0 rgba(0,0,0,0.1);
+  }
+  .navbar-mobile ul li a i{
+    font-size: 13px;
+    line-height: 29px;
+  }
+
+/* ----------- invitation home ----------*/
+    .sw-invitation-wrapper {
+        background-size:50%;
+    }
+
+    .sw-invitation-home{
+        background-size: 100%;
+        height: 280px;
+        width: 280px;
+        padding: 10px;
+    }
+    .sw-invitation-home .sw-content{
+        margin-top:50px;
+    }
+
+    .sw-invitation-home .sw-content h2 {
+        font-size:25px;
+        font-weight: 400;
+        padding: 0px;
+    }
+
+    .sw-invitation-home .sw-content h3 {
+        font-size: 18px;
+    }
+
+    .sw-invitation-home .sw-content .sw-timer{
+        font-size:15px;
+    }
+
+
+/*---------- Gallery -------------*/
+    .sw-gallery {
+        margin: 4px 0px;
+        border:4px solid rgba(255,255,255,0.4);
+    }
+
+    .sw-gallery img {
+        max-height:90px;
+    }
+/* -------- Credit -------------*/
+    .sw-logo-kalaujodoh{
+        position: relative;
+        margin-top:20px;
+    }
+
+    .sw-logo-kalaujodoh img{
+        height: 25px;
+    }
+
+    .sw-logo-kalaujodoh p{
+        line-height: 26px;
+        padding: 0px;
+        margin: auto;
+        font-size: 14px!important;
+    }
+
+    .sw-logo-kalaujodoh h3{
+        line-height: 26px;
+        font-size: 18px;
+        margin:auto;
+    }
+
+}
+.maps{
+    position: relative;
+        padding-bottom: 75%;
+        height: 0;
+        overflow: hidden;
+}
+.maps iframe{
+    position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+}
+.youtube {
+  padding: 0px 8px 0px 8px;
+  margin-bottom: 25px;
+  /*width: 360px;*/
+}
+.komen-netizen{
+  margin-bottom: 15px;
+  margin-top: 15px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.komen{
+  display:none;
+  padding: 10px;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 10px;
+  background-color: #f1f1f1;
+}
+
+#submitKomen{
+   margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: #428aba;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #428aba;
+    /*box-shadow: 0 1px 1px #ccc;*/
+    transition: all 600ms ease-in-out;
+    -webkit-transition: all 600ms ease-in-out;
+    -moz-transition: all 600ms ease-in-out;
+    -o-transition: all 600ms ease-in-out;
+}
+#submitKomen:hover{
+   background-color: #fff;
+    color: #428aba;
+}
+
+#loadMore {
+    margin-bottom: 10px;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: #fff;
+    color: #428aba;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #428aba;
+    /*box-shadow: 0 1px 1px #ccc;*/
+    transition: all 600ms ease-in-out;
+    -webkit-transition: all 600ms ease-in-out;
+    -moz-transition: all 600ms ease-in-out;
+    -o-transition: all 600ms ease-in-out;
+}
+#loadMore:hover {
+    background-color: #428aba;
+    color: #fff;
+}
+
+.komen-nama{
+  color: #428aba;
+  font-weight: bold;
+}
+
+.komen-isi{
+  color: #2f3640;
+}
+  /* ======== START MENU CERITA ======= */
+
+
+.main-timeline{
+    position: relative;
+    transition: all 0.4s ease 0s;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.main-timeline:before{
+    content: "";
+    width: 2px;
+    height: 100%;
+    background: #d1d8e0;
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+
+.main-timeline .timeline{
+    position: relative;
+}
+
+.main-timeline .timeline:before,
+.main-timeline .timeline:after{
+    content: "";
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.main-timeline .timeline-icon{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #fffcf5;
+    border: 2px solid #428aba;
+    position: absolute;
+    top: 0;
+    left: 1px;
+    right: 0;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main-timeline .timeline-content{
+    width: 45%;
+    padding: 15px 15px 10px 0px;
+    border-radius: 1px;
+    text-align: right;
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+}
+
+.main-timeline .date{
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 300;
+    color: #fff;
+    padding: 10px 20px;
+    background: #428aba;
+    border-radius: 18px;
+}
+
+.main-timeline .title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #5c5151;
+    margin-top: 15px;
+}
+
+.main-timeline .description{
+    font-size: 14 px;
+    color: #606060;
+    line-height: 2;
+    text-align: justify;
+}
+
+.main-timeline .timeline-content.right{
+    float: right;
+    text-align: left;
+}
+
+@media only screen and (max-width: 767px){
+    .main-timeline:before{
+        left: 0;
+    }
+    .main-timeline .timeline-icon{
+        left: -8px;
+        margin: 0;
+    }
+    .main-timeline .timeline-content{
+        width: 90%;
+        float: right;
+        text-align: left;
+    }
+}
+

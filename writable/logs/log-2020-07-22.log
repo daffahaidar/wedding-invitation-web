@@ -1,0 +1,694 @@
+INFO - 2020-07-22 04:26:40 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 04:27:00 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:27:00 --> Unknown database 'akadkuh'
+#0 /var/www/html/akadku/home/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 04:27:01 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /var/www/html/akadku/home/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/var/www/html/a...', 100, Array)
+#1 /var/www/html/akadku/home/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\Beranda), true)
+#2 /var/www/html/akadku/home/system/Debug/Exceptions.php(298): include('/var/www/html/a...')
+#3 /var/www/html/akadku/home/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-07-22 04:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 04:41:14 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-22 04:41:14 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(83): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(37): App\Models\AnuModel->cek_themes('')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:42:24 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:42:25 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 04:42:30 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-22 04:42:30 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(83): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(37): App\Models\AnuModel->cek_themes('')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 04:44:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-22 04:44:03 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:44:03 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 04:45:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-22 04:45:31 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:45:31 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:50 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:50 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:51 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:51 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:51 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:51 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:52 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:52 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:53 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:53 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:54 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:54 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:54 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:54 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:58:54 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:58:54 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:59:23 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 04:59:23 --> Table 'akadkuh.themes' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(79): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): App\Models\AnuModel->get_all_themes()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->themes()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 04:59:46 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:00:23 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:00:47 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:34 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:01:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-22 05:01:35 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:39 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:42 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:01:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-22 05:01:46 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 05:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:01:52 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-22 05:01:53 --> Undefined index: jml_cerita
+#0 /var/www/html/akadku/home/app/Views/base/order.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 7, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 05:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:02:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-22 05:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:03:16 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-22 05:03:16 --> Table 'akadkuh.order' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(34): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(83): App\Models\AnuModel->cek_domain('akudankamu')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 05:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-22 05:03:29 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-22 05:03:29 --> Table 'akadkuh.order' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(34): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(83): App\Models\AnuModel->cek_domain('akudankamu')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-22 06:11:20 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:20 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(26): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:47 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:47 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:47 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:47 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:48 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:48 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:48 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:48 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:48 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:11:48 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:11:58 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-22 06:12:07 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:07 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:08 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:08 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:08 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:08 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:09 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:09 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:09 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:09 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:09 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:09 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:09 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:09 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:09 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:09 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:21 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:21 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:32 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:32 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:33 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:33 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:41 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:41 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:42 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:42 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:42 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:42 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:42 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:42 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:42 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:42 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:42 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:42 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:12:43 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:12:43 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:13:55 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:13:55 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(25): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:14:50 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:14:50 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(28): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:14:51 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:14:51 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(14, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(28): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:13 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:13 --> Invalid label font path: /var/www/html/akadku/home/app/Controllers/../assets/fonts/noto_sans.otf
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(254): Endroid\QrCode\QrCode->setLabelFontPath('/var/www/html/a...')
+#1 /var/www/html/akadku/home/app/Controllers/Beranda.php(37): Endroid\QrCode\QrCode->setLabel('Scan the code', 16, '/var/www/html/a...', 'center')
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-07-22 06:15:33 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:33 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:34 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:34 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:34 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:34 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:34 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:34 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:35 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:35 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:35 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:35 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:55 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:55 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:56 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:56 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:56 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:56 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:15:56 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:15:56 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-22 06:20:16 --> Controller "App\Controllers\Beranda" loaded.
+CRITICAL - 2020-07-22 06:20:16 --> Call to undefined function Endroid\QrCode\Writer\imagecreatetruecolor()
+#0 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(57): Endroid\QrCode\Writer\PngWriter->createBaseImage(10, Array, Object(Endroid\QrCode\QrCode))
+#1 /var/www/html/akadku/home/vendor/endroid/qr-code/src/Writer/PngWriter.php(26): Endroid\QrCode\Writer\PngWriter->createImage(Array, Object(Endroid\QrCode\QrCode))
+#2 /var/www/html/akadku/home/vendor/endroid/qr-code/src/QrCode.php(383): Endroid\QrCode\Writer\PngWriter->writeString(Object(Endroid\QrCode\QrCode))
+#3 /var/www/html/akadku/home/app/Controllers/Beranda.php(33): Endroid\QrCode\QrCode->writeString()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Beranda->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,557 @@
+INFO - 2021-10-18 00:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 00:49:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2021-10-18 00:49:30 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/undangan/UndanganModel.php(45): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/undangan/Undangan.php(48): App\Models\undangan\UndanganModel->cek_domain('ads.txt')
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 00:49:30 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\undangan\Undangan), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 01:28:48 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 01:28:48 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 01:28:48 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 01:38:21 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 01:38:21 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 01:38:21 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 01:57:17 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 01:57:17 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 01:57:17 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 02:18:10 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 02:18:10 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 02:18:10 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 02:37:44 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 02:37:44 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 02:37:44 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 03:14:35 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 03:14:35 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 03:14:35 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 03:32:00 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 03:32:00 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 03:32:00 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 03:52:18 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 03:52:18 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 03:52:18 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 04:27:40 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 04:27:40 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 04:27:40 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 04:44:54 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 04:44:54 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 04:44:54 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 05:00:25 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 05:00:25 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 05:00:25 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 05:24:28 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 05:24:28 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 05:24:28 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 05:38:17 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 05:38:17 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 05:38:17 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 05:57:49 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 05:57:49 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 05:57:49 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 06:13:47 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 06:13:47 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 06:13:47 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 10:32:12 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-10-18 10:32:12 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/BerandaModel.php(39): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Beranda.php(29): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 10:32:12 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 10:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 10:33:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2021-10-18 10:33:41 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/undangan/UndanganModel.php(45): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/undangan/Undangan.php(48): App\Models\undangan\UndanganModel->cek_domain('ads.txt')
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 10:33:41 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\undangan\Undangan), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 18:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:33:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:33:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 18:33:59 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/DashboardModel.php(298): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Dashboard.php(55): App\Models\base\DashboardModel->get_user(Array)
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_auth()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 18:34:00 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Dashboard), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 18:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:34:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 18:34:16 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/nguh5634/public_html/project/undangan/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/nguh5634/public_html/project/undangan/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/nguh5634/public_html/project/undangan/app/Models/base/DashboardModel.php(298): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/nguh5634/public_html/project/undangan/app/Controllers/base/Dashboard.php(55): App\Models\base\DashboardModel->get_user(Array)
+#5 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_auth()
+#6 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#7 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-18 18:34:16 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nguh5634/...', 100, Array)
+#1 /home/nguh5634/public_html/project/undangan/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Dashboard), true)
+#2 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(298): include('/home/nguh5634/...')
+#3 /home/nguh5634/public_html/project/undangan/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-10-18 18:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:35:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:35:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:35:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:35:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 18:35:52 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 18:35:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 18:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:54:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:54:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 18:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:54:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 18:54:20 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 18:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 18:59:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 18:59:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:00:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:03:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:03:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:04:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:04:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:06:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:06:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:07:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:07:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:07:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:07:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:13:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:13:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:14:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 19:14:04 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 19:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:14:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:14:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:14:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 19:14:27 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 19:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:27:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:27:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:28:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 19:28:23 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 19:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:31:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-10-18 19:31:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-18 19:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-18 19:31:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2021-10-18 19:31:58 --> Call to undefined method CodeIgniter\View\View::getSnapToken()
+#0 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->token()
+#1 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /home/nguh5634/public_html/project/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/project/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-10-18 20:34:29 --> Controller "App\Controllers\base\Beranda" loaded.

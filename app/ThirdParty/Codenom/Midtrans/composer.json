@@ -1,0 +1,35 @@
+{
+    "name": "codenom/midtrans",
+    "description": "Module Midtrans Payment Methods for CodeIgniter 4",
+    "type": "codeigniter4-payments",
+    "homepage": "https://github.com/codenomdev/codeigniter4-midtrans",
+    "keywords": [
+        "Midtrans CodeIgniter 4",
+        "Midtrans"
+    ],
+    "support": {
+        "issues": "https://github.com/codenomdev/codeigniter4-midtrans/issues",
+        "source": "https://github.com/codenomdev/codeigniter4-midtrans"
+    },
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Ilham Falachul Adha",
+            "email": "codenomdev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2||~8.0.0",
+        "laminas/laminas-json": "~3.2.0"
+    },
+    "require-dev": {
+        "codeigniter4/framework": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codenom\\Midtrans\\": "src/"
+        }
+    }
+}

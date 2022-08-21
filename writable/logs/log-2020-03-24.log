@@ -1,0 +1,16 @@
+INFO - 2020-03-24 20:42:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-24 20:43:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-24 20:43:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-24 20:43:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-24 20:43:26 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-24 20:43:29 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-24 20:43:29 --> Call to a member function getResult() on null
+#0 /var/www/html/akadku/undangan/system/View/View.php(236): include()
+#1 /var/www/html/akadku/undangan/system/Common.php(1071): CodeIgniter\View\View->render('modernrose', Array, true)
+#2 /var/www/html/akadku/undangan/app/Controllers/Anu.php(51): view('modernrose')
+#3 /var/www/html/akadku/undangan/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/undangan/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/undangan/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/undangan/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-03-24 20:43:31 --> Controller "App\Controllers\Anu" loaded.

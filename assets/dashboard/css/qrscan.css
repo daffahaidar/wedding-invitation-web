@@ -1,0 +1,18 @@
+#qr-canvas {
+  margin: auto;
+  width: calc(100% - 20px);
+  max-width: 400px;
+}
+
+#btn-scan-qr {
+  cursor: pointer;
+}
+
+#btn-scan-qr img {
+  height: 10em;
+  background: white;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;;
+}
+

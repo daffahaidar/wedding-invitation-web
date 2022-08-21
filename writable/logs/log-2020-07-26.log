@@ -1,0 +1,423 @@
+INFO - 2020-07-26 03:45:53 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 03:46:10 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 03:46:34 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 03:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 03:47:26 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 03:47:26 --> Undefined index: jml_cerita
+#0 /var/www/html/akadku/home/app/Views/base/order.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 7, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-26 03:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 03:47:26 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 03:47:26 --> Undefined index: jml_cerita
+#0 /var/www/html/akadku/home/app/Views/base/order.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 7, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-26 08:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:08:42 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:08:42 --> Undefined index: dummy
+#0 /var/www/html/akadku/home/app/Views/base/order.php(362): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 362, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-26 08:10:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:10:43 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:10:43 --> syntax error, unexpected 'if' (T_IF)
+#0 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-07-26 08:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:14:30 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:14:30 --> Undefined index: dummy
+#0 /var/www/html/akadku/home/app/Views/base/order.php(362): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 362, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order1-da...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Order.php(65): view('base/order', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-26 08:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:37 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:18:02 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:18:02 --> Table 'akadkuh.order' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/AnuModel.php(34): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(83): App\Models\AnuModel->cek_domain('akudandia')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-26 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:24:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:24:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:24:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:24:15 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:24:15 --> Undefined index: foto_groom
+#0 /var/www/html/akadku/home/app/Views/order/order2-mempelai.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 33, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#3 /var/www/html/akadku/home/app/Views/base/order.php(59): view('order/order2-me...')
+#4 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#6 /var/www/html/akadku/home/app/Controllers/Order.php(120): view('base/order', Array)
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#9 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-07-26 08:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:26:16 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:26:16 --> Undefined index: nama_lengkap_pria
+#0 /var/www/html/akadku/home/app/Views/order/order2-mempelai.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 57, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#3 /var/www/html/akadku/home/app/Views/base/order.php(59): view('order/order2-me...')
+#4 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#6 /var/www/html/akadku/home/app/Controllers/Order.php(120): view('base/order', Array)
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#9 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-07-26 08:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:28:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:28:58 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:29:00 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:29:00 --> Undefined index: nama_lengkap_pria
+#0 /var/www/html/akadku/home/app/Views/order/order2-mempelai.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 57, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#3 /var/www/html/akadku/home/app/Views/base/order.php(59): view('order/order2-me...')
+#4 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order/order2-me...', Array, true)
+#6 /var/www/html/akadku/home/app/Controllers/Order.php(120): view('base/order', Array)
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#9 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-07-26 08:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:29:09 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:29:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:30:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:30:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:30:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:30:58 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:31:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 08:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 08:32:37 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 08:32:37 --> Table 'akadkuh.users' doesn't exist
+#0 /var/www/html/akadku/home/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /var/www/html/akadku/home/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/akadku/home/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/akadku/home/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/akadku/home/app/Models/OrderModel.php(64): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadku/home/app/Controllers/Order.php(474): App\Models\OrderModel->cek_email('akudankamu@gmai...')
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#8 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-07-26 09:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:10:50 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 09:10:50 --> Undefined variable: id_user
+#0 /var/www/html/akadku/home/app/Controllers/Order.php(509): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 509, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:08 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 09:12:08 --> Undefined variable: id_user
+#0 /var/www/html/akadku/home/app/Controllers/Order.php(509): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 509, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:19 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 09:12:19 --> Undefined variable: id_user
+#0 /var/www/html/akadku/home/app/Controllers/Order.php(509): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 509, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:32 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:12:50 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 09:12:50 --> Undefined variable: id_user
+#0 /var/www/html/akadku/home/app/Controllers/Order.php(509): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 509, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:16:17 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-07-26 09:16:17 --> Undefined variable: created
+#0 /var/www/html/akadku/home/app/Controllers/Order.php(517): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 517, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->saveData()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:16:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:16:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:41:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:41:44 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:41:45 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:11 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:12 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:37 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:37 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:37 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:42:37 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:29 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:34 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:35 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:35 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:43:35 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:44:41 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 09:44:41 --> Undefined variable: web
+#0 /var/www/html/akadku/home/app/Controllers/Anu.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 95, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->undangan()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:44:51 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:45:07 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:45:07 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:45:36 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 09:45:36 --> Invalid file: error.php
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('error', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(126): view('error')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->undangan()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-07-26 09:46:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:47:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:47:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:47:07 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:47:55 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 09:47:55 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 /var/www/html/akadku/home/app/Controllers/Anu.php(100): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/var/www/html/a...', 100, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->undangan()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:48:16 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 09:48:16 --> Array to string conversion
+#0 /var/www/html/akadku/home/app/Controllers/Anu.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/var/www/html/a...', 100, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->undangan()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-07-26 09:48:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:48:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:48:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:48:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:48:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:48:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:49:09 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:49:19 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 09:49:19 --> Undefined variable: w_ayah_pria
+#0 /var/www/html/akadku/home/app/Views/themes/hwflower.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 129, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/hwflower', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Anu.php(125): view('themes/hwflower', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->undangan()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-07-26 09:49:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:49:56 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:49:56 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:49:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:49:59 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:49:59 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:50:57 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:51:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:51:16 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:51:16 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:51:17 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:51:38 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:51:40 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 09:53:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 09:53:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:53:14 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:53:14 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:58:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:58:39 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 09:58:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 09:58:48 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 10:00:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:00:00 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 10:00:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:00:22 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 10:03:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:03:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:04:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:04:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:04:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:04:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:04:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:05:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:05:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:06:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:06:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:07:43 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 10:08:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:19:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:29:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:30:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:37:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:38:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:38:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:39:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:46:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:47:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:54:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:55:02 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:55:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:55:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 10:56:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 11:03:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 11:03:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 11:06:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 11:10:18 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-07-26 11:10:18 --> Invalid file: order.php
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('order.php')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(84): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->order()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-07-26 11:11:27 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 11:11:34 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 11:11:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-07-26 11:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:16:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 11:16:33 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-07-26 11:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:17:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 11:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:17:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 11:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:18:01 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 11:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:18:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-07-26 11:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-07-26 11:18:49 --> Controller "App\Controllers\Order" loaded.

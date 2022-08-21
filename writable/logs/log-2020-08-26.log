@@ -1,0 +1,1603 @@
+INFO - 2020-08-26 02:03:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 02:03:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 02:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:21:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 02:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:21:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 02:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:21:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 02:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:22:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 02:22:32 --> strtotime() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strtotime() exp...', '/var/www/html/a...', 19, Array)
+#1 /var/www/html/akadkufix/app/Views/base/dashboard/invoice.php(19): strtotime(Object(DateTime))
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#5 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#6 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#7 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(424): view('base/dashboard/...', Array)
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#10 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#12 {main}
+INFO - 2020-08-26 02:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:23:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 02:23:24 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/var/www/html/a...', 19, Array)
+#1 /var/www/html/akadkufix/app/Views/base/dashboard/invoice.php(19): strtotime('+3 days', '2020-08-26 08:3...')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#4 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#5 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#6 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#7 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(424): view('base/dashboard/...', Array)
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#10 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#12 {main}
+INFO - 2020-08-26 02:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:23:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 02:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:25:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 02:25:32 --> Undefined variable: jangka_waktu
+#0 /var/www/html/akadkufix/app/Views/base/dashboard/invoice.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 20, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(424): view('base/dashboard/...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 02:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 02:25:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:51:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:51:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:51:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:51:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:51:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:51:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:52:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:52:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 06:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:53:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 06:53:43 --> Could not move file phpl525BQ to assets/bukti/ ()
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpl525BQ', 'assets/bukti/', '')
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(474): CodeIgniter\HTTP\Files\UploadedFile->move('assets/bukti/', '2007155.png')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-26 06:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:55:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:55:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 06:55:16 --> Could not move file phpNkiNrM to assets/bukti/ ()
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpNkiNrM', 'assets/bukti/', '')
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(480): CodeIgniter\HTTP\Files\UploadedFile->move('assets/bukti/', '2007155.png')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-26 06:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:55:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:56:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 06:56:05 --> mkdir(): File exists
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): File e...', '/var/www/html/a...', 471, Array)
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(471): mkdir('assets/users/', 511, true)
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-26 06:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:56:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:56:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:57:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:57:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 06:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 06:57:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:00:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:00:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:00:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:01:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:01:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:02:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:02:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:02:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:03:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:03:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:04:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:04:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:04:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:04:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 07:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:27 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:05:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:32 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:05:46 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:05:46 --> Undefined index: nama_lengkap_pria
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 57, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:08:09 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:08:09 --> Undefined index: nama_ayah_pria
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(71): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 71, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:08:54 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:08:54 --> Undefined index: w_ayah_pria
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 75, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:09:07 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:09:07 --> Undefined index: w_ayah_pria
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 75, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:09:33 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:09:33 --> Undefined index: foto_bride
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 91, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:13:14 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:13:14 --> Undefined index: foto_bride
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 92, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:14:07 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:14:07 --> Undefined index: nama_lengkap_wanita
+#0 /var/www/html/akadkufix/app/Views/base/order/order2-mempelai.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 123, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(118): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:15:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:15:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:15:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:15:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:15:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:16:02 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:16:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:16:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:17:05 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:17:20 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:18:30 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:19:02 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:19:02 --> Undefined index: tanggal_akad
+#0 /var/www/html/akadkufix/app/Views/base/order/order3-acara.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 23, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(163): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:20:52 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:21:27 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:21:27 --> Undefined index: tanggal_cerita0
+#0 /var/www/html/akadkufix/app/Views/base/order/order4-cerita.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 25, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(204): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->cerita()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:23:10 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:23:10 --> Undefined index: tanggal_cerita0
+#0 /var/www/html/akadkufix/app/Views/base/order/order4-cerita.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 25, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(204): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->cerita()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:23:31 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:23:31 --> Undefined index: jml_cerita
+#0 /var/www/html/akadkufix/app/Views/base/order/order4-cerita.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 77, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Order.php(204): view('base/order/orde...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->cerita()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-26 07:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:23:59 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:24:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:24:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:24:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:24:16 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:24:19 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:24:21 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:04 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:04 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:04 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:25:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:25:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:07 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2020-08-26 07:25:07 --> syntax error, unexpected '{'
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#1 /var/www/html/akadkufix/app/Views/base/order/order_layout.php(50): view('base/order/orde...')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/order/orde...', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/base/Order.php(204): view('base/order/orde...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Order->cerita()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Order))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-26 07:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:31 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:25:36 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:26:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:26:26 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:26:50 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:26:52 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:26:54 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:27:01 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:27:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:27:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:27:03 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:28:05 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:28:36 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:28:56 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:29:09 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:29:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:29:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:30:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:30:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:30:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:33:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:33:28 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:33:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:33:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:35:17 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:35:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:35:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:37:09 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:37:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:37:15 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:37:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:37:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:26 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:35 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:38:56 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:38:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:38:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:13 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 07:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 07:39:13 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:08:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:08:42 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:08:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:08:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:08:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:09:38 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:09:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:09:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:09:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:09:50 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:09:51 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:09:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:37:31 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 09:38:51 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 09:40:21 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 09:44:01 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 09:44:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:44:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:44:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:44:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:44:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:44:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:45:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:46:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:46:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:46:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:47:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:47:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:50:18 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:50:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:50:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:52:08 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:52:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:54:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:54:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:54:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:55:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:56:05 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 09:56:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:56:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 09:56:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:56:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 09:56:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 09:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 09:56:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 10:00:34 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:01:29 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:07:33 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:10:08 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:11:13 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:18:16 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:18:51 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:19:19 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:19:32 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:19:35 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:20:18 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:20:58 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:21:04 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:21:09 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:21:15 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:21:27 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+CRITICAL - 2020-08-26 10:21:27 --> Undefined index: host
+#0 /var/www/html/akadkufix/system/Commands/Help.php(116): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 116, Array)
+#1 /var/www/html/akadkufix/system/CLI/CommandRunner.php(137): CodeIgniter\Commands\Help->run(Array)
+#2 /var/www/html/akadkufix/system/CLI/CommandRunner.php(110): CodeIgniter\CLI\CommandRunner->runCommand('help', Array)
+#3 /var/www/html/akadkufix/system/CLI/CommandRunner.php(86): CodeIgniter\CLI\CommandRunner->index(Array)
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(906): CodeIgniter\CLI\CommandRunner->_remap('index', 'help', 'host')
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#9 {main}
+INFO - 2020-08-26 10:21:32 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:21:43 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:22:51 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:22:54 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:01 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:14 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:37 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:44 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:53 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:23:58 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:24:05 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:24:14 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:25:07 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:25:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:25:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:25:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 10:25:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:25:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:25:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:25:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:26:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:26:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:26:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:26:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:27:44 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 10:27:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:48 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:27:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:27:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:28:30 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-26 10:28:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:44 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:28:51 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 10:28:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:28:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:37:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:37:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 10:38:50 --> Use of undefined constant DOMAIN_UTAMA - assumed 'DOMAIN_UTAMA' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/akadkufix/app/Config/Routes.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/var/www/html/a...', 27, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#6 {main}
+CRITICAL - 2020-08-26 10:39:13 --> Use of undefined constant DOMAIN_UTAMA - assumed 'DOMAIN_UTAMA' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/akadkufix/app/Config/Filters.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/var/www/html/a...', 14, Array)
+#1 /var/www/html/akadkufix/system/Config/Services.php(307): Config\Filters->__construct()
+#2 /var/www/html/akadkufix/system/Config/BaseService.php(123): CodeIgniter\Config\Services::filters(NULL, false)
+#3 /var/www/html/akadkufix/system/Config/Services.php(302): CodeIgniter\Config\BaseService::getSharedInstance('filters', NULL)
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(361): CodeIgniter\Config\Services::filters()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#8 {main}
+INFO - 2020-08-26 10:40:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:40:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:40:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:40:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:40:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:40:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:40:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:41:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:41:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:41:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:41:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:41:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:42:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:42:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:42:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:42:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:43:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:43:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 10:43:12 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:43:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:43:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:45:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 10:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:45:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:45:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 10:45:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 10:45:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:02:25 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 11:02:25 --> Undefined variable: idnya
+#0 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 49, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#6 {main}
+INFO - 2020-08-26 11:03:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:03:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:03:22 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:03:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:06:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:06:44 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:07:12 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:07:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:07:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:24:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:24:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:24:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:24:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:24:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:26:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:27:00 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:27:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 11:27:07 --> Undefined variable: _SESSION
+#0 /var/www/html/akadkufix/app/Models/undangan/UndanganModel.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 104, Array)
+#1 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(87): App\Models\undangan\UndanganModel->add_komen(Array)
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->do_add_komentar()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 11:28:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:28:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:28:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:29:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:29:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:30:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:30:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:30:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:30:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:33:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:33:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:33:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:33:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:34:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:34:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:35:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:35:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:35:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:35:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:35:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:36:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:37:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:37:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:38:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:39:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:41:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:42:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:47:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:47:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:47:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:47:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:47:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:48:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:50:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:50:44 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:19 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:57 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:52:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:53:00 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:53:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:53:19 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:57:39 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 11:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 11:59:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:02:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:02:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:02:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:02:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:03:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 12:03:08 --> Call to undefined function App\Controllers\undangan\setVar()
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->do_add_komentar()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#5 {main}
+INFO - 2020-08-26 12:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:03:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 12:03:56 --> Call to undefined function setVar()
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->do_add_komentar()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#5 {main}
+INFO - 2020-08-26 12:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:04:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 12:04:59 --> Call to undefined function App\Controllers\undangan\setVar()
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->do_add_komentar()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#5 {main}
+INFO - 2020-08-26 12:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:05:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-26 12:07:07 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-26 12:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:08:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:08:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:08:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:08:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:09:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:09:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:44 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:44 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:11:59 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:00 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:12:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:14:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:14:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:14:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:14:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:14:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:14:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:14:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:14:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:14:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:14:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:15:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:15:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:15:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:15:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:16:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:16:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:16:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:16:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 12:19:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:19:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:19:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:33 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:21:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:23:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:23:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:23:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:23:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:25:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:25:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:25:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:27:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:27:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:28:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:28:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:28:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:28:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:32:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:32:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:32:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:37:57 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-26 12:37:57 --> Undefined property: App\Controllers\base\Beranda::$uri
+#0 /var/www/html/akadkufix/app/Controllers/base/Beranda.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 43, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#6 {main}
+INFO - 2020-08-26 12:38:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:40:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:40:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:40:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:40:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:40:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:44:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:45:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:45:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:45:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:45:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:50:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:51:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:51:45 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-26 12:51:45 --> Undefined property: App\Controllers\base\Beranda::$UndanganModel
+#0 /var/www/html/akadkufix/app/Controllers/base/Beranda.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 51, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#6 {main}
+INFO - 2020-08-26 12:53:14 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-26 12:53:15 --> You must set the database table to be used with your query.
+#0 /var/www/html/akadkufix/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/akadkufix/system/Model.php(1648): CodeIgniter\Model->builder()
+#2 /var/www/html/akadkufix/app/Models/base/BerandaModel.php(38): CodeIgniter\Model->__get('mempelai')
+#3 /var/www/html/akadkufix/app/Controllers/base/Beranda.php(51): App\Models\base\BerandaModel->get_mempelai('1')
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#9 {main}
+INFO - 2020-08-26 12:53:39 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-26 12:53:39 --> Undefined variable: invite
+#0 /var/www/html/akadkufix/app/Views/undangan/themes/tealflower.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 15, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /var/www/html/akadkufix/app/Controllers/base/Beranda.php(60): view('undangan/themes...', Array)
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#9 {main}
+INFO - 2020-08-26 12:55:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:56:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:56:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:57:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 12:57:39 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 12:57:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:58:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:59:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 12:59:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:00:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:00:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 13:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:00:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 13:01:00 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-26 13:01:00 --> Undefined variable: foto
+#0 /var/www/html/akadkufix/app/Views/undangan/themes/modernrose.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 60, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /var/www/html/akadkufix/app/Controllers/base/Beranda.php(62): view('undangan/themes...', Array)
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#9 {main}
+INFO - 2020-08-26 13:01:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:01:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:01:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:01:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:01:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:04:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:04:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:06:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:06:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:06:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:06:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:06:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:06:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:07:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:07:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:07:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:07:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 13:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:08:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:09:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:09:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 13:09:29 --> Undefined variable: order
+#0 /var/www/html/akadkufix/app/Views/base/dashboard/index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(29): view('base/dashboard/...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->index()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+INFO - 2020-08-26 13:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:10:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:10:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-26 13:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:10:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:11:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:11:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:11:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:11:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:11:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:11:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:12:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:12:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:12:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 13:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 13:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 13:12:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-26 13:13:59 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2020-08-26 13:14:16 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2020-08-26 13:14:49 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2020-08-26 13:14:51 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2020-08-26 13:15:01 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2020-08-26 13:15:36 --> Undefined index: HTTP_HOST
+#0 /var/www/html/akadkufix/app/Config/Routes.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(772): require('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/akadkufix/spark(57): CodeIgniter\CLI\Console->run()
+#6 {main}
+INFO - 2020-08-26 23:13:44 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2020-08-26 23:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:13:57 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:13:58 --> Undefined offset: 0
+#0 /var/www/html/akadkufix/app/Views/admin/edit_pengguna.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/admin/layout.php(98): view('admin/edit_peng...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(65): view('admin/layout', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->edit_pengguna()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+INFO - 2020-08-26 23:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:19:36 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:19:36 --> Undefined offset: 0
+#0 /var/www/html/akadkufix/app/Views/admin/edit_pengguna.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/admin/layout.php(98): view('admin/edit_peng...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(77): view('admin/layout', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->edit_pengguna()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+INFO - 2020-08-26 23:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:19:38 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:19:38 --> Undefined offset: 0
+#0 /var/www/html/akadkufix/app/Views/admin/edit_pengguna.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/admin/layout.php(98): view('admin/edit_peng...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(77): view('admin/layout', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->edit_pengguna()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+INFO - 2020-08-26 23:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:23 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:20:23 --> Undefined offset: 0
+#0 /var/www/html/akadkufix/app/Views/admin/edit_pengguna.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/admin/layout.php(98): view('admin/edit_peng...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/edit_peng...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(77): view('admin/layout', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->edit_pengguna()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+CRITICAL - 2020-08-26 23:20:27 --> Uninitialized string offset: 0
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(861): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Uninitialized s...', '/var/www/html/a...', 861, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#5 {main}
+INFO - 2020-08-26 23:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:34 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:42 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:44 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:20:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:21:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:21:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:21:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:35:17 --> Undefined variable: pembayaran
+#0 /var/www/html/akadkufix/app/Views/admin/pengguna.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 47, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/pengguna', Array, true)
+#3 /var/www/html/akadkufix/app/Views/admin/layout.php(98): view('admin/pengguna')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('admin/pengguna', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(38): view('admin/layout', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->pengguna()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#12 {main}
+INFO - 2020-08-26 23:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:46 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:35:46 --> Undefined variable: builder2
+#0 /var/www/html/akadkufix/app/Models/admin/AdminModel.php(322): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 322, Array)
+#1 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(65): App\Models\admin\AdminModel->konfirmasi_user('1')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 23:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:35:58 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:35:58 --> Undefined variable: builder2
+#0 /var/www/html/akadkufix/app/Models/admin/AdminModel.php(322): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 322, Array)
+#1 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(65): App\Models\admin\AdminModel->konfirmasi_user('1')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 23:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:36:13 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:36:13 --> Undefined variable: builder
+#0 /var/www/html/akadkufix/app/Models/admin/AdminModel.php(323): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 323, Array)
+#1 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(65): App\Models\admin\AdminModel->konfirmasi_user('1')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 23:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:36:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:36:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:47:37 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:47:39 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:47:39 --> Undefined index: id_admin
+#0 /var/www/html/akadkufix/app/Models/admin/AdminModel.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 337, Array)
+#1 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(75): App\Models\admin\AdminModel->get_admin_by_id()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->profil()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 23:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:47:49 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2020-08-26 23:47:49 --> Undefined index: id_admin
+#0 /var/www/html/akadkufix/app/Models/admin/AdminModel.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 337, Array)
+#1 /var/www/html/akadkufix/app/Controllers/admin/Admin.php(75): App\Models\admin\AdminModel->get_admin_by_id()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\admin\Admin->profil()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/akadkufix/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/a...')
+#7 {main}
+INFO - 2020-08-26 23:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:47:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:48:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:48:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:48:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:48:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:48:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:49:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:49:09 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:49:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:51:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:51:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:52:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:52:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:52:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:52:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2020-08-26 23:55:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 23:55:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-26 23:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:56:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 23:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:56:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 23:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:56:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 23:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:56:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-26 23:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-26 23:56:20 --> Controller "App\Controllers\base\Dashboard" loaded.

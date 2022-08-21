@@ -1,0 +1,844 @@
+CRITICAL - 2020-03-20 18:16:56 --> Call to a member function segment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:18:04 --> Call to a member function segment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:18:09 --> Call to a member function segment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:18:13 --> Call to a member function segment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('biru')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:21:36 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/biru')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/biru')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:21:38 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/biru')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/biru')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:21:47 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/biru')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/biru')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:21:47 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/biru')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/biru')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:21:51 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:22:07 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:25:05 --> Too few arguments to function App\Controllers\Anu::warna(), 0 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:25:19 --> Too few arguments to function App\Controllers\Anu::warna(), 0 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:25:49 --> Too few arguments to function App\Controllers\Anu::warna(), 0 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:26:00 --> Too few arguments to function App\Controllers\Anu::warna(), 0 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:29:23 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/me/a...')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/me/a...')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:29:34 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/me/a...')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/me/a...')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:29:39 --> syntax error, unexpected '.'
+#0 /var/www/html/CodeIgniter4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('/anu/warna/me/a...')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('/anu/warna/me/a...')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-20 18:30:41 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('me', 'aa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:30:44 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:30:48 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:30:58 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:22 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:43 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:46 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqi')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:50 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqi')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:52 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqi')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:32:54 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:03 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:03 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:03 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:04 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:04 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:04 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:10 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:17 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:17 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:18 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:20 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqi')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:23 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:33 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:36 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqi')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:38 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:48 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:49 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:33:53 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:08 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:10 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('aaaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:15 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('as')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:17 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:35 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:44 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:34:46 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:35:21 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('Aqil', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:35:26 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:35:28 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:37:38 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:37:40 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', '')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:24 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:25 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:26 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'A')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:27 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('a', 'a', 'A')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:30 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('aAA')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:43 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('aAA')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:46 --> Too few arguments to function App\Controllers\Anu::warna(), 0 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-20 18:38:48 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:39:51 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:39:51 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:29 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:29 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:29 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:29 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:30 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:30 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:30 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:30 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:30 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:30 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:30 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:30 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:31 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:31 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:41:31 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:41:31 --> Call to a member function getSegment() on null
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:23 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:23 --> Too few arguments to function CodeIgniter\HTTP\URI::getSegment(), 0 passed in /var/www/html/CodeIgniter4/app/Controllers/Anu.php on line 13 and exactly 1 expected
+#0 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(13): CodeIgniter\HTTP\URI->getSegment()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-03-20 18:44:25 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:25 --> Too few arguments to function CodeIgniter\HTTP\URI::getSegment(), 0 passed in /var/www/html/CodeIgniter4/app/Controllers/Anu.php on line 13 and exactly 1 expected
+#0 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(13): CodeIgniter\HTTP\URI->getSegment()
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasas', 'aaa')
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-03-20 18:44:27 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:27 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:42 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:42 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:44 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:44 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:51 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:51 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:51 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:51 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:51 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:51 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:52 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:52 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:44:52 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:44:52 --> Too few arguments to function App\Controllers\Anu::warna(), 1 passed in /var/www/html/CodeIgniter4/system/CodeIgniter.php on line 910 and exactly 2 expected
+#0 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna('asasa')
+#1 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-03-20 18:45:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:45:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:46:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:46:14 --> Used the default controller.
+INFO - 2020-03-20 18:46:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:46:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:46:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:46:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:25 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:47:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:48:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:48:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:48:29 --> Used the default controller.
+INFO - 2020-03-20 18:48:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:48:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:48:56 --> Used the default controller.
+INFO - 2020-03-20 18:48:56 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:48:56 --> Request URI segment is our of range: {0}
+#0 /var/www/html/CodeIgniter4/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(16): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-20 18:49:13 --> Used the default controller.
+INFO - 2020-03-20 18:49:13 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:49:13 --> Request URI segment is our of range: {0}
+#0 /var/www/html/CodeIgniter4/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(16): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-20 18:49:15 --> Used the default controller.
+INFO - 2020-03-20 18:49:15 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:49:15 --> Request URI segment is our of range: {0}
+#0 /var/www/html/CodeIgniter4/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(16): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-20 18:49:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:49:31 --> Used the default controller.
+INFO - 2020-03-20 18:49:31 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 18:49:31 --> Request URI segment is our of range: {0}
+#0 /var/www/html/CodeIgniter4/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(16): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->warna()
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-20 18:49:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:49:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:50:45 --> Used the default controller.
+INFO - 2020-03-20 18:50:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:51:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:51:35 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:51:51 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:52:32 --> Used the default controller.
+INFO - 2020-03-20 18:52:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 18:54:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:00:41 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-03-20 19:00:41 --> Request URI segment is our of range: {0}
+#0 /var/www/html/CodeIgniter4/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/CodeIgniter4/app/Controllers/Anu.php(12): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/CodeIgniter4/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#3 /var/www/html/CodeIgniter4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#4 /var/www/html/CodeIgniter4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/CodeIgniter4/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-03-20 19:00:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:25 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:49 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:01:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:03:23 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:03:25 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:03:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:23:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:23:20 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:23:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:25:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:26:04 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:26:10 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:26:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:26:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:36:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:37:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:42:27 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:43:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:44:09 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:44:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:44:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:44:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:39 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:54 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:55 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:46:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:12 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:47:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:49 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:49:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:50:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:50:30 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:50:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:52:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:52:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:52:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:52:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:52:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 19:54:45 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 20:02:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 20:02:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 20:02:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 21:56:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 21:56:23 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-03-20 21:56:23 --> Controller "App\Controllers\Anu" loaded.

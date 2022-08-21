@@ -1,0 +1,374 @@
+html, body {
+	font-family: 'Kurale', serif;
+    width: 100%;
+    color:#fff;
+    background:#274035 url('./images/bg.png');
+    background-size: contain;
+}
+html.has-lightbox {
+	overflow: hidden;
+	position: static;
+	height: 100vh;
+	width: 100vw;
+}
+h1 span {
+    display: block;
+    font-size: 30px !important;
+}
+h1, h2 {
+	font-family: 'Alice', serif;
+}
+.btn-primary {
+	background-color: #efbf69;
+	border-color: #eeb34a;
+    color: #383838;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+	background-color: #eeb34a !important;
+	border-color: #eeb34a !important;
+	color: #383838;
+	box-shadow: none !important;
+}
+.img-thumbnail {
+	border:solid 2px #f7b2b2;
+}
+.caption {
+	font-family: 'Alice', serif;
+}
+.couple-ring::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    background: url('./images/border-couple.svg') center center no-repeat;
+}
+.couple-ring img {
+    padding: 1.5rem;
+    margin-top: -13px;
+}
+.information-wrap {
+    position: relative;
+    margin-bottom: 50px;
+}
+.information {
+    text-align: center;
+    background-size: contain;
+    border:solid 5px #efbf69;
+    padding: 20px;
+    height: 100%;
+}
+.information::before,
+.information::after,
+.information h3::before,
+.information h3::after {
+    width: 100px;
+    display: block;
+    height: 100px;
+    position: absolute;
+}
+.information h3::before {
+    content: '';
+    background: url('./images/border-information-tl.png') top left no-repeat;
+    top: -31px;
+    left: -17px;
+    background-size: contain;
+}
+.information h3::after {
+    content: '';
+    background: url('./images/border-information-tr.png') top left no-repeat;
+    top: -31px;
+    right: -17px;
+    background-size: contain;
+}
+.information::before {
+    content: '';
+    background: url('./images/border-information-bl.png') bottom left no-repeat;
+    bottom: -31px;
+    left: -17px;
+    background-size: contain;
+}
+.information::after {
+    content: '';
+    background: url('./images/border-information-br.png') bottom left no-repeat;
+    bottom: -31px;
+    right: -17px;
+    background-size: contain;
+}
+.text-secondary {
+    color: #efbf69 !important;
+    text-transform: uppercase;
+}
+.text-secondary span {
+    font-size: 20px;
+    line-height: 40px;
+}
+.container {
+    max-width: 800px;
+	text-align: center;
+}
+section {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	position: relative;
+	z-index: 2;
+    overflow: hidden;
+}
+.full {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	background-size: cover;
+	align-items: center;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.header {
+    position: relative;
+    background:#274035 url('./images/bg-header.png') center center no-repeat;
+    background-size: contain;
+}
+.timer {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: solid 1px #efbf69;
+    text-align: center;
+    display: inline-block;
+    line-height: 116px;
+    font-size: 55px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.timer-1::after,
+.timer-2::after,
+.timer-3::after,
+.timer-4::after {
+    content: '';
+    display: block;
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top:0;
+    background:url('./images/border-timer.png') no-repeat;
+    background-size: contain;
+    -webkit-animation:spin 30s linear infinite;
+    -moz-animation:spin 30s linear infinite;
+    animation:spin 30s linear infinite;
+}
+.timer-2::after {
+    transform: rotate(120deg);
+}
+.timer-3::after {
+    transform: rotate(250deg);
+}
+.timer-4::after {
+    transform: rotate(90deg);
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+@-webkit-keyframes slideTopRight {
+    100% { right: 20px; top: 20px; }
+}
+
+@keyframes slideTopRight {
+    100% { right: 20px; top: 20px;}
+}
+
+@-webkit-keyframes slideTopLeft {
+    100% { left: 20px; top: 20px; }
+}
+@keyframes slideTopLeft {
+    100% { left: 20px; top: 20px;}
+}
+
+@-webkit-keyframes slideBottomLeft {
+    100% { left: 20px; bottom: 20px; }
+}
+@keyframes slideBottomLeft {
+    100% { left: 20px; bottom: 20px;}
+}
+
+@-webkit-keyframes slideBottomRight {
+    100% { right: 20px; bottom: 20px; }
+}
+@keyframes slideBottomRight {
+    100% { right: 20px; bottom: 20px;}
+}
+.header::before, .header::after,
+.header-footer::before, .header-footer::after {
+	display: block;
+	content: '';
+	height: 30vh;
+	width: 30%;
+	position: absolute;
+}
+.header::before {
+	background:url('images/tl.svg') no-repeat;
+	background-size: contain;
+	background-position: top left;
+	top:-500px;
+	left: -500px;
+	-webkit-animation: slideTopLeft 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slideTopLeft 0.5s forwards;
+    animation-delay: 2s;
+}
+.header::after {
+    top: -500px;
+    right: -500px;
+    background: url('images/tr.svg') no-repeat;
+    background-size: contain;
+	background-position: top right;
+	-webkit-animation: slideTopRight 0.5s forwards;
+    -webkit-animation-delay: 2s;
+    animation: slideTopRight 0.5s forwards;
+    animation-delay: 2s;
+}
+.header-footer::before {
+	background:url('images/bl.svg') no-repeat;
+	background-size: contain;
+	background-position: bottom left;
+	bottom:-500px;
+	left: -500px;
+	-webkit-animation: slideBottomLeft 0.5s forwards;
+    -webkit-animation-delay: 2.5s;
+    animation: slideBottomLeft 0.5s forwards;
+    animation-delay: 2.5s;
+}
+.header-footer::after {
+    bottom: -500px;
+    right: -500px;
+    background: url('images/br.svg') no-repeat;
+    background-size: contain;
+	background-position: bottom right;
+	-webkit-animation: slideBottomRight 0.5s forwards;
+    -webkit-animation-delay: 2.5s;
+    animation: slideBottomRight 0.5s forwards;
+    animation-delay: 2.5s;
+}
+.quote p {
+	font-style: italic;
+}
+.owl-carousel h4::after {
+    display: block;
+    content: '';
+    width: 35px;
+    height: 3px;
+    background: #efbf69;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.owl-carousel .owl-nav {
+    text-align: center;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+    width: 45px;
+    height: 45px;
+    border: solid 1px #fff;
+    border-radius: 50%;
+    margin: 5px;
+    font-size: 35px;
+    line-height: 0;
+}
+button.owl-next:hover,
+button.owl-prev:hover,
+button.owl-next:active,
+button.owl-prev:active,
+button.owl-next:focus,
+button.owl-prev:focus {
+    outline:none !important;
+    box-shadow: none !important;
+}
+footer {
+	position: relative;
+}
+footer img {
+	max-width: 100px;
+}
+footer small {
+	display: block;
+}
+footer::before, footer::after {
+	display: block;
+	content: '';
+	height: 30vh;
+	width: 30%;
+	position: absolute;
+	z-index: 1;
+}
+footer::before {
+	background:url('images/bl.svg') no-repeat;
+	background-size: contain;
+	background-position: bottom left;
+	bottom:20px;
+	left: 20px;
+}
+footer::after {
+    bottom: 20px;
+    right: 20px;
+    background: url('images/br.svg') no-repeat;
+    background-size: contain;
+	background-position: bottom right;
+}
+footer .col-md-12 {
+	z-index: 3;
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+	section {
+		padding-top: 30px !important;
+		padding-bottom: 30px !important;
+    }
+    footer::before, footer::after {
+        height: 10vh;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	h1 {
+        font-size: 70px;
+        letter-spacing: 10px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+.show-guest-book .container {
+    max-width: 600px;
+    max-height: 400px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    border: solid 1px #fff;
+    border-radius: 20px;
+    position: relative;
+}
+.show-guest-book .media-comment {
+    border-bottom: solid 1px #657b72;
+}

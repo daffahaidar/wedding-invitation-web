@@ -1,0 +1,39 @@
+INFO - 2020-08-16 20:03:44 --> Controller "App\Controllers\Undangan" loaded.
+CRITICAL - 2020-08-16 20:03:44 --> Invalid file: themes/greenflower.php
+#0 /var/www/html/akadkufix/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes/greenflo...')
+#1 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('themes/greenflo...', Array, true)
+#2 /var/www/html/akadkufix/app/Controllers/Undangan.php(89): view('themes/greenflo...', Array)
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\Undangan->undangan()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Undangan))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-16 20:04:34 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:05:31 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:05:31 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:05:31 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:05:31 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:06:08 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:06:08 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:06:08 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:08:01 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:08:01 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:08:01 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:09:13 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:09:13 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:09:13 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:10:14 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:10:14 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:10:14 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:10:25 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:10:25 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:10 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:19:11 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:11 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:18 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:19 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:19 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:46 --> Controller "App\Controllers\Undangan" loaded.
+INFO - 2020-08-16 20:19:47 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:47 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-16 20:19:49 --> Controller "App\Controllers\Beranda" loaded.

@@ -1,0 +1,1031 @@
+INFO - 2022-03-07 00:25:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 02:12:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 02:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 02:32:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 03:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 03:23:48 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 03:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 03:48:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 04:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 04:14:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 05:48:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 05:48:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 05:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 05:48:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 05:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 05:48:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 05:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 05:48:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 05:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 05:48:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2022-03-07 05:48:47 --> Invalid argument supplied for foreach()
+#0 /home/ngua4317/public_html/app/Controllers/base/Dashboard.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/ngua4317/...', 442, Array)
+#1 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_acara()
+#2 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:54:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 05:58:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:25:55 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 06:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:41:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:41:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:41:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:41:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:41:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:41:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:51:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:52:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:53:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2022-03-07 06:53:08 --> Invalid argument supplied for foreach()
+#0 /home/ngua4317/public_html/app/Controllers/base/Dashboard.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/ngua4317/...', 442, Array)
+#1 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_acara()
+#2 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#3 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-07 06:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:53:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:53:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:53:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:55:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:55:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:55:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:55:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 06:55:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 06:56:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:57:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:58:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:59:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:59:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 06:59:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:00:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 07:00:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:00:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:00:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:03:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:09:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:10:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:14:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:26:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:26:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:26:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:26:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:26:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:27:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:28:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:29:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:29:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:30:53 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 07:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:37:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:37:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:38:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:38:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:38:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:38:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:40:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:40:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:40:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:40:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:41:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:41:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:41:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:42:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 07:45:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:45:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:45:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:45:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:53:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:58:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 07:58:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 07:59:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 07:59:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:17:01 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 08:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2022-03-07 08:19:32 --> Undefined variable: where2
+#0 /home/ngua4317/public_html/app/Models/base/DashboardModel.php(233): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 233, Array)
+#1 /home/ngua4317/public_html/app/Controllers/base/Dashboard.php(485): App\Models\base\DashboardModel->set_countdown('104')
+#2 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_set_countdown()
+#3 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-03-07 08:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:19:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:20:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:21:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:21:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:21:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:21:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:21:21 --> Undefined variable: tgl_acara
+#0 /home/ngua4317/public_html/app/Views/undangan/themes/islamic1.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 84, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-07 08:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:26:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:26:48 --> Undefined variable: tgl_acara
+#0 /home/ngua4317/public_html/app/Views/undangan/themes/islamic1.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 84, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-07 08:29:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:35:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-03-07 08:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:37:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:38:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:39:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:39:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:40:09 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 08:40:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:40:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:40:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:41:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:41:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:41:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:41:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:41:59 --> Undefined variable: tgl_acara
+#0 /home/ngua4317/public_html/app/Views/undangan/themes/islamic1.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 90, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-07 08:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:44:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:44:18 --> Undefined variable: tgl_acara
+#0 /home/ngua4317/public_html/app/Views/undangan/themes/islamic1.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 92, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-07 08:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:44:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:44:21 --> Undefined variable: tgl_acara
+#0 /home/ngua4317/public_html/app/Views/undangan/themes/islamic1.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 92, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-07 08:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:44:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:44:50 --> Cannot use object of type stdClass as array
+#0 /home/ngua4317/public_html/system/View/View.php(236): include()
+#1 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#2 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#3 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-07 08:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:45:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2022-03-07 08:45:48 --> Cannot use object of type stdClass as array
+#0 /home/ngua4317/public_html/system/View/View.php(236): include()
+#1 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#2 /home/ngua4317/public_html/app/Controllers/undangan/Undangan.php(140): view('undangan/themes...', Array)
+#3 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-07 08:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:46:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 08:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:50:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:51:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:52:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:52:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 08:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:58:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:59:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:59:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:59:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 08:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 08:59:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 09:00:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:52 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:53 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:53 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:53 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:01:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:03:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:52:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:53:06 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 09:53:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:53:26 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 09:53:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:53:39 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 09:53:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:54:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:54:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:55:04 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 09:55:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:29 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:58:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 09:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 09:59:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 09:59:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:59:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:59:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 09:59:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:07:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:24:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:26:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:27:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:27:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:28:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 10:38:27 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 10:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 10:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:11:48 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 11:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:23:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:24:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:24:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:24:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:25:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:26:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:26:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:26:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:26:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:26:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:26:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:27:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:27:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:27:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:27:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2022-03-07 11:27:41 --> Column 'tempat_acara' cannot be null
+#0 /home/ngua4317/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ac...')
+#1 /home/ngua4317/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ac...')
+#2 /home/ngua4317/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ac...')
+#3 /home/ngua4317/public_html/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ac...', Array, false)
+#4 /home/ngua4317/public_html/app/Models/base/DashboardModel.php(227): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /home/ngua4317/public_html/app/Controllers/base/Dashboard.php(472): App\Models\base\DashboardModel->save_acara(Array)
+#6 /home/ngua4317/public_html/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_acara()
+#7 /home/ngua4317/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#8 /home/ngua4317/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-07 11:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:27:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:28:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:29:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:29:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:30:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:31:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:29 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:32:29 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:33:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:33:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:33:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:33:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 11:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:28 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 11:34:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 11:39:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:40:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:48:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:48:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:48:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:50:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:50:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:51:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:51:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:52:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 11:52:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:05:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:32:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 12:39:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 12:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 12:39:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 12:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 12:39:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 12:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 12:39:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-03-07 12:40:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:54:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 12:55:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:10:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 13:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 14:07:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 14:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 14:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 14:42:42 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 14:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 15:28:44 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 15:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 15:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 15:55:08 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 16:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:06:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 16:21:41 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 16:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:40:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:40:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:41:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:41:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:41:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 16:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 16:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 16:41:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-03-07 16:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:59:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 16:59:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:01:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:28:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:28:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:28:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:28:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:29:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:30:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:30:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:30:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:31:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:31:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:32:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:33:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:47:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 17:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:20:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 18:21:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 18:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:47:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:47:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:47:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:47:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:51:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 18:52:01 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 18:52:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 18:57:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:17:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:24:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:35:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:35:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 19:47:17 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 19:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 19:59:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:01:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:01:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:02:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:05:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:06:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:07:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:07:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:08:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:09:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:10:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:11:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:12:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:14:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:14:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:16:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:17:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:18:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:19:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:20:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:27:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:27:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:31:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:34:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:34:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:35:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:35:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:36:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:36:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:37:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:40:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:40:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:48:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 20:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:02:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:03:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:04:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 21:05:01 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 21:05:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:05:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:15:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:24:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:25:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:28:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-07 21:29:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-03-07 21:29:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:30:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:33:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:34:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:35:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:36:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:39:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:41:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:41:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:42:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:43:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:43:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:44:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:45:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:49:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 21:50:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:20:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-03-07 22:50:01 --> Controller "App\Controllers\base\Beranda" loaded.

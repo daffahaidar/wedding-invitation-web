@@ -1,0 +1,612 @@
+INFO - 2021-05-27 00:39:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 01:14:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 02:59:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 04:24:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 04:26:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 05:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 05:21:40 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-05-27 05:43:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 05:54:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 06:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 06:19:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 08:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 08:27:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 08:28:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 08:49:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 10:18:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 12:28:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 12:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 12:28:35 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-05-27 12:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 12:28:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 13:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 13:03:29 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 13:41:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 15:19:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:09:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 16:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 16:36:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 16:37:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:39:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:39:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:40:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:40:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 16:42:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 17:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:22:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:22:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:22:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:22:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:55:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:55:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:55:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:56:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:56:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:57:36 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:57:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 17:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:57:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:58:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 17:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 17:58:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 18:20:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 18:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 18:46:25 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 18:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 18:46:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 18:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 18:46:29 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 18:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 18:46:31 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 18:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 18:46:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 19:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:35:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:35:15 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:35:15 --> Call to undefined function App\Controllers\admin\delete_files()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-05-27 19:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:35:23 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:36:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:36:09 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:37:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:37:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 19:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:39:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:39:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:39:51 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:39:51 --> rmdir(assets/themes/Testlagi): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/T...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:40:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:42:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:43:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:44:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:44:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:44:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:44:21 --> Call to undefined function App\Controllers\admin\delete_files()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-05-27 19:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:44:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:20 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:20 --> rmdir(assets/themes/Huhaha): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/H...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:32 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:32 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:33 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:33 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:33 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:33 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:33 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:33 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:33 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:33 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:46:34 --> rmdir(assets/themes/): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): rmdir('assets/themes/')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 19:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:46:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:47:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:48:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:48:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:48:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:48:57 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 19:48:57 --> Call to undefined function App\Controllers\admin\delete_files()
+#0 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#1 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-05-27 19:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:49:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:50:34 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 19:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 19:58:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-05-27 20:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:01:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:02:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:02:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:02:12 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:02:12 --> rmdir(assets/themes/Nekopoi): Directory not empty
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 698, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(698): rmdir('assets/themes/N...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:06:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:07:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:07:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:07:27 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:07:27 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 694, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(694): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:10:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:05 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:05 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:14 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:14 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:16 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:16 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:16 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:16 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:18 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:18 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:18 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:18 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:18 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:18 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:19 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:19 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:14:19 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:14:19 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:12 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:12 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:17 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:18 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:18 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:22 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:22 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:23 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:23 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:23 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:16:23 --> unlink() expects parameter 2 to be resource, boolean given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink() expect...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...', true)
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:16:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:19:48 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:19:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:19:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:21:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:21:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:21:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:22:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:22:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:22:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:30:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:30:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:30:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:30:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:31:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:34:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:34:54 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:34:54 --> rmdir(assets/themes/Semuaada): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 695, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(695): rmdir('assets/themes/S...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:34:59 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:34:59 --> unlink(/home/nguh5634/public_html/app/Views/undangan/themes/Semuaada.php): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ng...', '/home/nguh5634/...', 693, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(693): unlink('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:35:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:36:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:36:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:37:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:37:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:39:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:39:36 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-05-27 20:39:36 --> rmdir(assets/themes/Test): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'rmdir(assets/th...', '/home/nguh5634/...', 695, Array)
+#1 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(695): rmdir('assets/themes/T...')
+#2 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\admin\Admin->delete_theme()
+#3 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-05-27 20:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:39:40 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:40:13 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:40:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:41:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:42:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:43:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:43:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:45:28 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:45:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:45:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:36 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:36 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:46:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:56:51 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:57:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:57:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:58:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 20:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 20:58:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 21:02:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 21:05:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 21:11:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 21:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 21:19:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 21:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 21:24:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 21:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 21:45:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 21:50:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 21:57:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 22:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 22:01:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-05-27 22:04:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 23:39:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-05-27 23:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-05-27 23:48:44 --> Controller "App\Controllers\undangan\Undangan" loaded.

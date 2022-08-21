@@ -1,0 +1,1755 @@
+INFO - 2020-08-24 02:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:38:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 02:38:01 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 106, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(87): App\Models\dashboard\DashboardModel->get_order_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->pengaturan()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 02:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:38:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 02:38:23 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 22, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(20): App\Models\dashboard\DashboardModel->get_total_pengunjung()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 02:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:39:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:39:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:39:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:39:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:40:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:40:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:41:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 02:41:04 --> Undefined variable: domain
+#0 /var/www/html/akadkufix/app/Views/dashboard/pengaturan.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 22, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/penga...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/penga...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/penga...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(92): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->pengaturan()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 02:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:41:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:41:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 02:41:29 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 106, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(88): App\Models\dashboard\DashboardModel->get_order_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->pengaturan()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 02:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:45:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:46:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:46:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:46:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:46:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:46:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:48:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:52:22 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:52:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:52:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:54:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:55:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:56:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:56:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:58:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 02:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 02:59:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:00:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:00:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:00:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:00:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:01:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 03:01:09 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 22, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(21): App\Models\dashboard\DashboardModel->get_total_pengunjung()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 03:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:01:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:01:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:01:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:22:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:22:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:22:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:23:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:24:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:24:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:24:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:24:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:25:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:25:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:25:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:26:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:27:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:27:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:27:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:27:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:27:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:28:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:29:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:29:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:29:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:29:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:30:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:30:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:34:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:34:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:34:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 03:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 03:57:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:02:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:02:31 --> You must set the database table to be used with your query.
+#0 /var/www/html/akadkufix/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/akadkufix/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(89): CodeIgniter\Model->__call('get_fitur_by_id', Array)
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->pengaturan()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-24 04:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:02:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:05:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:06:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:07:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:10:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:13:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:13:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:14:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:14:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:15:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:16:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:24:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:24:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:22 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:25:46 --> Unknown column 'domain' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `rules` ...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `rules` ...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `rules` ...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `rules` ...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(136): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(114): App\Models\dashboard\DashboardModel->update_domain('mantab')
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_domain()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 04:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:25:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:25:51 --> Unknown column 'domain' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `rules` ...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `rules` ...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `rules` ...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `rules` ...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(136): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(114): App\Models\dashboard\DashboardModel->update_domain('mantab')
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_domain()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 04:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:26:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:26:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:26:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:26:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:26:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:27:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:28:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:28:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:29:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:30:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:30:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:31:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:31:42 --> Undefined variable: order
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(128): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:33:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:33:26 --> Undefined variable: order
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(128): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:33:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:33:36 --> Undefined variable: order
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(128): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:34:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:34:01 --> Undefined index: dummy
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 23, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(129): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:41:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:41:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:42:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:42:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:43:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:46:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:46:05 --> Undefined variable: fotogroom
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 22, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(130): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:46:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:48:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:48:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:50:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 04:50:13 --> Trying to get property 'nama_pria' of non-object
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/var/www/html/a...', 42, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(134): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(130): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->mempelai()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 04:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:50:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:50:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:51:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:53:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:53:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:55:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:56:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:57:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:57:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 04:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 04:57:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:00:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:02:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:02:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:02:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:10:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:11:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:12:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:12:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 05:12:21 --> Undefined property: App\Controllers\dashboard\Dashboard::$ses
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(153): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 153, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_foto_mempelai()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 05:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:12:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:13:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:13:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:15:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:15:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:15:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:25:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:25:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 05:25:52 --> Too few arguments to function App\Models\dashboard\DashboardModel::update_mempelai(), 0 passed in /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php on line 175 and exactly 1 expected
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(175): App\Models\dashboard\DashboardModel->update_mempelai()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_mempelai()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 05:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:26:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 05:26:44 --> Unknown column 'nama_' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `mempela...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `mempela...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `mempela...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `mempela...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(161): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(175): App\Models\dashboard\DashboardModel->update_mempelai(Array)
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_mempelai()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 05:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:27:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 05:27:07 --> Unknown column 'nama_' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `mempela...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `mempela...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `mempela...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `mempela...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(161): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(175): App\Models\dashboard\DashboardModel->update_mempelai(Array)
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_mempelai()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 05:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:27:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:27:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:27:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:28:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:28:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:28:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:30:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:32:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:33:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:34:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:34:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:34:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:34:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 05:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 05:56:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 06:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:01:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 06:01:10 --> Undefined variable: mempelai
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 42, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 06:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:01:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 06:01:35 --> Undefined variable: mempelai
+#0 /var/www/html/akadkufix/app/Views/dashboard/mempelai.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 42, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/mempe...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/mempe...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 06:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:01:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 06:01:57 --> Undefined property: stdClass::$waktu_akad
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 30, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 06:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:02:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 06:02:23 --> Undefined property: stdClass::$lokasi_akad
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 35, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 06:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:02:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 06:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:03:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 06:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 06:03:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:47:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:48:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:50:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:53:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 07:53:02 --> Undefined variable: data
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 10, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 07:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:53:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 07:53:15 --> Use of undefined constant maps - assumed 'maps' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/var/www/html/a...', 86, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 07:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:53:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 07:53:43 --> Undefined variable: kunci
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(217): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 217, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(190): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 07:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:54:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:54:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 07:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 07:55:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:03:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:03:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 08:03:35 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(171): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 171, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(185): App\Models\dashboard\DashboardModel->get_acara_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->acara()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 08:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:04:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:05:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:05:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:07:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:08:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:08:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:09:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:13:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:13:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:13:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:15:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:16:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:17:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:18:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:19:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:19:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:20:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 08:20:04 --> You must set the database table to be used with your query.
+#0 /var/www/html/akadkufix/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/akadkufix/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(201): CodeIgniter\Model->__call('update_acara', Array)
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_acara()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-24 08:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:20:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:20:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:21:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:22 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:22:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:23:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:23:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:23:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:23:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:24:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:24:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:29:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:29:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:29:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:29:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:30:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:30:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:30:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:31:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:31:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:31:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:32:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:32:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:33:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:33:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:34:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:34:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:34:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:35:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:35:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:35:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:36:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:36:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:36:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:39:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:39:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:39:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:40:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:40:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:40:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:40:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:41:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:43:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:43:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:44:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:44:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:44:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:44:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:45:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:45:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:46:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:46:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:46:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:52:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:54:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:55:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:55:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:55:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:55:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:55:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:56:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 08:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 08:56:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:05:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:05:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:05:37 --> Undefined variable: acara
+#0 /var/www/html/akadkufix/app/Views/dashboard/acara.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(136): view('dashboard/acara')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/acara', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(228): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->gallery()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 09:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:05:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:07:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:07:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:08:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:10:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:13:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:13:14 --> Undefined index: dummy
+#0 /var/www/html/akadkufix/app/Views/dashboard/gallery.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 41, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/galle...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(136): view('dashboard/galle...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/galle...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(228): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->gallery()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 09:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:16:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:16:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:24:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:24:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:24:15 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 200, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(223): App\Models\dashboard\DashboardModel->get_album_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->gallery()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 09:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:24:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:24:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:25:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:25:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:40 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:40 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:44 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:44 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:45 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:45 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:47 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:47 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:49 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:49 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:26:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:26:50 --> Undefined variable: generate
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(245): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 245, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_gallery()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 09:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:27:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:28:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:28:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:29:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:31:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:31:59 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 200, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(223): App\Models\dashboard\DashboardModel->get_album_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->gallery()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 09:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:33:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:44:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 09:44:55 --> Undefined variable: data
+#0 /var/www/html/akadkufix/app/Views/dashboard/gallery.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 41, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/galle...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(136): view('dashboard/galle...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/galle...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(271): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->cerita()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 09:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:45:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:47:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:48:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 09:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 09:49:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:09:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:09:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:09:47 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(209): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 209, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(267): App\Models\dashboard\DashboardModel->get_cerita_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->cerita()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 10:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:09:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:09:52 --> Undefined property: App\Controllers\dashboard\Dashboard::$ses
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(281): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 281, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:10:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:10:26 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(209): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 209, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(267): App\Models\dashboard\DashboardModel->get_cerita_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->cerita()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 10:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:10:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:10:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:10:32 --> Undefined variable: noTanggal
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(295): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 295, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:10:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:10:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:10:52 --> Column 'judul_cerita' cannot be null
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ce...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ce...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ce...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ce...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(222): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(313): App\Models\dashboard\DashboardModel->save_cerita(Array)
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 10:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:11:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:12:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:12:40 --> Column 'judul_cerita' cannot be null
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ce...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ce...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ce...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ce...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(222): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(313): App\Models\dashboard\DashboardModel->save_cerita(Array)
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-24 10:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:15:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:17:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:17:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:18:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:18:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:19:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:19:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:20:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:21:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:22:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:22:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:23:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:23:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:23:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:23:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:23:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:24:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:24:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:24:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:24:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:24:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:25:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:25:41 --> Undefined variable: jml_cerita
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(290): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 290, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:25:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:25:50 --> Undefined variable: jml_cerita
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(310): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 310, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:26:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:26:34 --> Undefined variable: jml_cerita
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(310): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 310, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:26:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:26:52 --> Undefined variable: jml_cerita
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(310): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 310, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:27:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:28:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:28:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:29:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:30:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:31:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:31:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:31:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:32:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:32:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:35:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 10:35:25 --> Undefined variable: jml_tanggal
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(309): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 309, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->do_update_cerita()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-24 10:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:35:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:35:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:36:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:36:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:36:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:37:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:37:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:37:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:37:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:37:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:38:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:39:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:39:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:39:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:40:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:40:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:40:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:40:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:41:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:41:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:41:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:41:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:42:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:42:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:44:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:44:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:45:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:45:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:46:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:46:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:46:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:46:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 10:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 10:47:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:11:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:11:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:11:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:11:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:11:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:12:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:13:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:13:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:13:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:13:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:21:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:24:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 11:24:25 --> Undefined variable: kode
+#0 /var/www/html/akadkufix/app/Views/dashboard/invoice.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 24, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/invoi...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(338): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->invoice()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 11:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:26:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 11:26:47 --> Undefined property: stdClass::$id_unik
+#0 /var/www/html/akadkufix/app/Views/dashboard/invoice.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 24, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/invoi...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(339): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->invoice()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 11:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:27:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:27:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:28:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:28:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:28:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 11:28:34 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(228): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 228, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(335): App\Models\dashboard\DashboardModel->get_user_by_id_user()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->invoice()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-24 11:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:29:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:30:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:30:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:33:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:33:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:34:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:34:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:34:46 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:38:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 11:38:00 --> Undefined variable: kode
+#0 /var/www/html/akadkufix/app/Views/dashboard/invoice.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 53, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/invoi...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/invoi...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(339): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->invoice()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 11:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:38:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:39:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:39:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:41:52 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:42:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:42:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:43:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:45:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:47:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:47:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:48:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:48:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:48:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:48:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:49:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:51:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:51:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:52:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:52:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:52:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:53:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:54:22 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:54:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:55:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:55:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:55:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:56:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 11:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 11:56:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:00:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:01:34 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:02:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:02:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:02:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:02:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:03:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:05:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:11:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:11:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-24 12:11:13 --> Undefined variable: order
+#0 /var/www/html/akadkufix/app/Views/dashboard/profil.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 6, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/profi...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/profi...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/profi...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(347): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->profil()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-24 12:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:11:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:11:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:11:47 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:12:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:13:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:17:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:41 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:18:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:19:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:19:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:19:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:19:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:19:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:20:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:21:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:21:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:21:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:21:20 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-24 12:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-24 12:21:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.

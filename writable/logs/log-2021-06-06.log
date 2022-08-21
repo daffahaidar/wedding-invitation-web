@@ -1,0 +1,328 @@
+INFO - 2021-06-06 00:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 00:32:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-06-06 01:03:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 01:09:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 01:15:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 01:29:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 02:12:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 03:37:55 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 03:37:55 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/greenflower.php(704): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 704, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 04:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:14:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:15:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:15:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:15:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:19:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:19:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:19:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:19:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:19:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:28:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:28:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:28:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:28:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:28:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:29:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:29:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:29:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:32:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:32:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:32:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:32:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:32:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:33:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:34:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:34:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:34:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:34:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:38:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:38:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:38:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:38:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 04:39:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 04:48:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 05:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 05:05:57 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 05:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 05:22:12 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 05:22:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 05:37:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 05:51:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 06:28:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 06:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 06:46:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-06 06:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 06:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 06:58:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 08:00:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 08:10:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 08:10:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 08:11:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 09:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 09:50:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 09:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 09:52:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-06-06 10:40:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 10:42:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:39:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:39:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:39:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:39:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:39:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 11:53:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:44 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 13:24:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:46 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:46 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/tealflower.php(744): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 744, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:46 --> Controller "App\Controllers\base\Lupa_password" loaded.
+INFO - 2021-06-06 13:24:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:47 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:49 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:49 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:50 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:50 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/radiantdark.php(700): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 700, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:51 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:51 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/radiantyellow.php(704): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 704, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:52 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:52 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/prettyflower.php(708): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 708, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:52 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:53 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:54 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:54 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/blueroses.php(713): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 713, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:54 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:55 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:55 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/redroses.php(710): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 710, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:56 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:56 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/hwflower.php(702): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 702, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 13:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:57 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 13:24:58 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 13:24:58 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/greenflower.php(704): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 704, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 13:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 13:24:58 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-06-06 14:28:34 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 14:28:34 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/prettyflower.php(708): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 708, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 14:45:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 15:12:02 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-06-06 15:12:02 --> Undefined variable: qrcode
+#0 /home/nguh5634/public_html/app/Views/undangan/themes/hwflower.php(702): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/nguh5634/...', 702, Array)
+#1 /home/nguh5634/public_html/system/View/View.php(236): include('/home/nguh5634/...')
+#2 /home/nguh5634/public_html/system/Common.php(1071): CodeIgniter\View\View->render('undangan/themes...', Array, true)
+#3 /home/nguh5634/public_html/app/Controllers/base/Beranda.php(78): view('undangan/themes...', Array)
+#4 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\base\Beranda->demo()
+#5 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-06-06 15:29:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 15:30:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 15:31:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 15:59:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 16:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 16:15:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-06 16:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 16:15:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-06 16:42:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 17:05:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 18:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 18:54:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-06-06 19:00:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 19:00:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 19:46:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 20:41:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 20:41:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 20:57:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 20:57:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:15:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:44:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 22:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:44:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:44:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:44:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:44:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:44:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:45:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-06-06 22:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-06 22:46:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-06-06 22:58:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-06-06 23:17:06 --> Controller "App\Controllers\base\Beranda" loaded.

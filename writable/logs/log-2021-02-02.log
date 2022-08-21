@@ -1,0 +1,1177 @@
+INFO - 2021-02-02 06:28:17 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:28:17 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:28:20 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:28:20 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:28:28 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:28:28 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:30:08 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:30:08 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:30:10 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:30:10 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:32:10 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:32:10 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:32:11 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:32:11 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-02-02 06:33:19 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:33:19 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:33:19 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:34:54 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:34:54 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:34:54 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:37:44 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:37:44 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:37:44 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:37:46 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:37:46 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:37:46 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:37:54 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:37:54 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:37:54 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:37:56 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:37:56 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:37:56 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:39:14 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:39:14 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:39:14 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:39:17 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:39:17 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:39:17 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:41:19 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:41:19 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:41:19 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:41:22 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:41:22 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:41:22 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:41:26 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:41:26 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:41:26 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:41:29 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:41:29 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:41:29 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:41:35 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:41:35 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/core/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/core/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/core/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/core/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/subdomain/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:41:36 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/core/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/core/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:48:44 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:48:44 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:48:44 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:48:45 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:48:45 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:48:45 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:50:27 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:50:27 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:50:27 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:50:28 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:50:28 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:50:28 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:50:56 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:50:56 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:50:56 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:54:06 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:54:06 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:54:06 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:54:07 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:54:07 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:54:07 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:54:09 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:54:09 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:54:09 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:54:10 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:54:10 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:54:10 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:54:12 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:54:12 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:54:12 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:55:36 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:55:36 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:55:36 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:55:40 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:55:40 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:55:40 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:56:34 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:56:34 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:56:34 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:56:36 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:56:36 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:56:36 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:57:05 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:57:05 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:57:05 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:57:07 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:57:07 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:57:07 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:57:09 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-02-02 06:57:09 --> Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/aguestpdmy/public_html/wedding/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/aguestpdmy/public_html/wedding/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home/aguestpdmy/public_html/wedding/app/Models/base/BerandaModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/aguestpdmy/public_html/wedding/app/Controllers/base/Beranda.php(26): App\Models\base\BerandaModel->get_all_themes()
+#5 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 /home/aguestpdmy/public_html/wedding/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/aguestpdmy/public_html/wedding/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-02 06:57:09 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/aguestpdm...', 100, Array)
+#1 /home/aguestpdmy/public_html/wedding/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\base\Beranda), true)
+#2 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(298): include('/home/aguestpdm...')
+#3 /home/aguestpdmy/public_html/wedding/system/Debug/Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-02 06:59:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 06:59:51 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 06:59:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 06:59:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:00:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:00:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:02:09 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:02:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:02:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:03:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:03:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:05:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:05:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:06:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:06:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 07:07:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:07:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:07:28 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:07:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:07:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:07:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:08:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:08:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:08:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:13:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:14:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:14:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:14:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:19:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:21:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:25:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:26:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:26:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:26:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:26:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:29:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:30:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:30:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:30:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:30:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:37:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:40:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:40:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:40:51 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:40:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:40:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:40:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:43:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:43:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:43:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:43:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:43:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:44:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:44:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:44:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:44:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:47:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:47:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:48:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:48:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:48:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:48:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:48:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:48:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:50:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:52:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:52:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 07:52:53 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 07:52:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:52:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 07:52:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:00:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:01:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:01:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:02:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:02:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:02:51 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:02:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:02:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:03:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:03:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:03:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:03:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:15:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:15:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:56:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:56:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:56:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:57:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:57:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:57:31 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:07 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:35 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:35 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:58:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:58:49 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:04 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:59:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:16 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:16 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:16 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:32 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:59:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:40 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 08:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 08:59:45 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 08:59:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 09:09:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 09:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 09:09:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 09:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 09:09:15 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 09:09:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 09:09:51 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 09:09:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 09:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 09:09:56 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 12:30:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 16:12:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 16:12:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 16:12:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:05:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 19:10:35 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 19:10:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 19:10:42 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 19:10:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:10:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:14:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:14:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:18:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:18:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 19:52:57 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 19:52:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 19:53:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 19:53:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 19:53:46 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 19:53:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:53:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 19:54:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:04:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:04:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:05:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:05:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:07:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:07:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:07:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:07:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:08:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:08:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:08:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:09:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 20:10:17 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 20:10:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 20:10:25 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 20:10:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:10:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:11:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:11:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:14:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:14:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:14:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:14:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 20:15:22 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 20:15:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:15:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:26:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:26:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:26:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:26:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:26:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:52:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:52:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:52:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:52:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 20:53:29 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 20:53:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:53:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 20:53:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 21:02:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 21:02:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 21:02:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 22:36:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 22:36:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 22:36:37 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 22:36:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:36:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 22:37:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-02-02 22:37:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-02-02 22:37:18 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-02-02 22:37:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-02-02 22:37:31 --> Controller "App\Controllers\base\Beranda" loaded.

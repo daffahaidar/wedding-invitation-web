@@ -1,0 +1,81 @@
+INFO - 2020-04-17 06:31:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:32:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:33:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:33:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:36:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:36:23 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:36:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:36:43 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:40:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:40:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:40:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:07 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:13 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:32 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:35 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:41:35 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:43:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:43:40 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:43:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:43:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:44:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:44:33 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:44:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:44:35 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 06:59:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:00:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:00:00 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:00:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:00:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:00:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:08:14 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-17 07:08:14 --> Call to a member function getResult() on null
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-17 07:08:35 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-17 07:08:35 --> Undefined variable: mempelai
+#0 /var/www/html/akadku/home/app/Controllers/Anu.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 49, Array)
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-17 07:08:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:09:23 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-17 07:09:44 --> syntax error, unexpected '$temanya' (T_VARIABLE), expecting ',' or ')'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-17 07:09:50 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-17 07:09:50 --> Undefined variable: w_ayah_pria
+#0 /var/www/html/akadku/home/app/Views/themes/tealflower.php(126): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 126, Array)
+#1 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/tealflow...', Array, true)
+#3 /var/www/html/akadku/home/app/Controllers/Anu.php(55): view('themes/tealflow...', Array)
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-17 07:10:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:21 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 07:10:37 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-17 17:20:49 --> Controller "App\Controllers\Anu" loaded.

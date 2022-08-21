@@ -1,0 +1,118 @@
+1@font-face{
+  font-family: "Just";
+  src: url("../fonts/JustAnotherHand.ttf") format("truetype");
+}
+/* font untuk judul => ex: Acara,Album,Cerita,Dll */
+@font-face{
+  font-family: "Great Vibes";
+  src: url("../fonts/GreatVibes.ttf") format("truetype");
+}
+/* font untuk text biasa */
+@font-face{
+  font-family: "Poppins";
+  src: url("../fonts/Poppins.ttf") format("truetype");
+}
+body, html {
+  height: auto;
+  width: auto;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    Width : auto;
+    display:block; 
+
+        }
+
+.utama-mempelai{
+font-family: "Great Vibes" ;
+  font-size: 30px;
+  /* margin-top: 0px;
+  margin-bottom: 0px; */
+  color: #00000;
+  /* text-transform: uppercase; */
+  position :relative;
+  align-items : center;
+  justify-content : center;
+  display :flex;
+  margin :auto;
+  padding-bottom:10px;
+  text-decoration: underline;
+}
+.utama-detail{
+font-family: "Poppins" ;
+  font-size: 14px;
+  padding-bottom:4px;
+  /* margin-top: 0px;
+  margin-bottom: 0px; */
+  color: #00000;
+  /* text-transform: uppercase; */
+    align-items : center;
+  justify-content : center;
+  display :flex;
+  margin :auto;
+  text-align: center;
+}
+.carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      min-height: 300px;
+      max-height: 300px;
+      object-fit: cover;
+    }
+
+
+@media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+}
+#qr-canvas {
+  margin: auto;
+  width: calc(100% - 10px);
+  max-width: 400px;
+  max-height:400px;
+}
+
+
+ #canvas-camera {
+display : inline-block;
+ }
+#btn-scan-qr {
+  cursor: pointer;
+}
+
+#btn-scan-qr img {
+  max-height: 400px;
+  width: calc(100% - 10px);
+  display: flex;
+    margin-left: auto;
+    margin-right: auto;;
+}
+
+#btn-capture img {
+  max-height: 400px;
+  width: calc(100% - 10px);
+  display: flex;
+    margin-left: auto;
+    margin-right: auto;;
+}
+
+#canvas-camera{
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+
+#camera,
+#camera video{
+  /*display: inline-block;*/
+  width:100%!important;
+  height: auto!important;
+  margin:auto;
+  text-align: center;
+  border-radius: 15px;
+  overflow: hidden;
+}

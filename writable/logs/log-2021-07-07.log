@@ -1,0 +1,512 @@
+INFO - 2021-07-07 00:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 00:50:06 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 01:02:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 01:12:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 01:17:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 01:18:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 01:18:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 01:51:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 02:25:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 03:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 03:02:39 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 04:26:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 04:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 04:52:19 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 05:08:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 05:09:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 05:11:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 05:38:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 06:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 06:28:56 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 06:31:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 06:32:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 06:40:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 06:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 06:40:57 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 06:41:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:08:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:11:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:12:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:12:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:12:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:12:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:13:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:13:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:13:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:14:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:15:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 07:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:19:29 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:20:21 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:20:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:20:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:21:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:21:37 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:28:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:32:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 07:40:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 07:42:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:43:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:43:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 07:43:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 08:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:37 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:40 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:33:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 08:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:34:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:34:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:34:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 08:35:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 08:40:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 09:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 09:15:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 09:15:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 09:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 09:53:05 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2021-07-07 09:53:06 --> Unknown column 'bon' in 'where clause'
+#0 /home/nguh5634/public_html/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 /home/nguh5634/public_html/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/nguh5634/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/nguh5634/public_html/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/nguh5634/public_html/app/Models/undangan/UndanganModel.php(53): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/nguh5634/public_html/app/Controllers/undangan/Undangan.php(89): App\Models\undangan\UndanganModel->cek_tamu('1', 'bon%20jovi')
+#6 /home/nguh5634/public_html/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#7 /home/nguh5634/public_html/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#8 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2021-07-07 11:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-07-07 13:28:32 --> fopen(/home/nguh5634/public_html/writable/session/ci_session12e02332ec2c7c947d2f0182b969ec46314bd562): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('12e02332ec2c7c9...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\admin\Admin->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+INFO - 2021-07-07 13:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:58:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:16 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:16 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 13:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 13:59:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:28 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:00:30 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2021-07-07 14:31:50 --> fopen(/home/nguh5634/public_html/writable/session/ci_session12e02332ec2c7c947d2f0182b969ec46314bd562): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('12e02332ec2c7c9...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\admin\Admin->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:31:54 --> fopen(/home/nguh5634/public_html/writable/session/ci_session12e02332ec2c7c947d2f0182b969ec46314bd562): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('12e02332ec2c7c9...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\admin\Admin->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:31:57 --> fopen(/home/nguh5634/public_html/writable/session/ci_session12e02332ec2c7c947d2f0182b969ec46314bd562): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('12e02332ec2c7c9...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\admin\Admin->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:31:59 --> fopen(/home/nguh5634/public_html/writable/session/ci_session12e02332ec2c7c947d2f0182b969ec46314bd562): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('12e02332ec2c7c9...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/admin/Admin.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\admin\Admin->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:33:30 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:34:17 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:34:20 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:34:21 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+INFO - 2021-07-07 14:34:28 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-07-07 14:34:32 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:34:34 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:34:42 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+INFO - 2021-07-07 14:34:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 14:34:47 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-07-07 14:34:55 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/app/Controllers/base/Order.php(16): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Order->__construct()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#13 {main}
+INFO - 2021-07-07 14:34:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 14:35:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 14:35:18 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2021-07-07 14:35:29 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2021-07-07 14:35:31 --> fopen(/home/nguh5634/public_html/writable/session/ci_sessionb027826f7f4c9451876de7c9bd737b50125882f0): failed to open stream: Disk quota exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home/ngu...', '/home/nguh5634/...', 174, Array)
+#1 /home/nguh5634/public_html/system/Session/Handlers/FileHandler.php(174): fopen('/home/nguh5634/...', 'c+b')
+#2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->read('b027826f7f4c945...')
+#3 /home/nguh5634/public_html/system/Session/Session.php(1002): session_start()
+#4 /home/nguh5634/public_html/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#5 /home/nguh5634/public_html/system/Config/Services.php(773): CodeIgniter\Session\Session->start()
+#6 /home/nguh5634/public_html/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#7 /home/nguh5634/public_html/system/Config/Services.php(754): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/nguh5634/public_html/system/Common.php(879): CodeIgniter\Config\Services::session()
+#9 /home/nguh5634/public_html/app/Controllers/base/Dashboard.php(10): session()
+#10 /home/nguh5634/public_html/system/CodeIgniter.php(882): App\Controllers\base\Dashboard->__construct()
+#11 /home/nguh5634/public_html/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#12 /home/nguh5634/public_html/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/nguh5634/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+INFO - 2021-07-07 14:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:36:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-07-07 14:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:36:51 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:36:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:36:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:36:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 14:53:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-07-07 14:54:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 16:39:45 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 16:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:41:12 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 16:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 16:41:26 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 17:07:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 17:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 17:26:21 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 17:40:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 17:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 17:51:19 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 17:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 17:51:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 17:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 17:57:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:29:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:29:10 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:29:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:29:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:29:11 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:41:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 18:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:42:00 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 18:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:42:00 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 18:42:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 18:42:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 18:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:44:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 18:46:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 18:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:46:13 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 18:46:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 18:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 18:46:51 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 19:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 19:04:38 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 19:51:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 19:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 19:51:25 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 19:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 19:52:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 19:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 19:52:51 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 20:07:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 20:46:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 20:46:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 20:47:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 20:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 20:47:15 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 20:47:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 20:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 20:47:20 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 21:20:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:20:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:20:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:24:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:24:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:24:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:33:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 21:33:34 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 21:33:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 21:34:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 22:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 22:05:50 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 22:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 22:28:06 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 22:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 22:28:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 23:29:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:33:37 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 23:45:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:45:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:45:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:45:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2021-07-07 23:45:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:45:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:47:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:47:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:47:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:47:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:48:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-07-07 23:48:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-07-07 23:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:48:10 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 23:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:48:51 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 23:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:49:01 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-07-07 23:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-07-07 23:50:03 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2021-07-07 23:50:08 --> Controller "App\Controllers\base\Beranda" loaded.

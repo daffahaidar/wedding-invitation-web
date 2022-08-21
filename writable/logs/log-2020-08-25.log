@@ -1,0 +1,1543 @@
+INFO - 2020-08-25 00:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:23:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-25 00:23:08 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 32, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(21): App\Models\dashboard\DashboardModel->get_total_pengunjung()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 00:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:30:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:33:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:34:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:34:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:34:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:34:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:35:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:35:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:35:50 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:35:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:36:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:36:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:36:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:36:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:36:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:37:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:37:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:37:43 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:39:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:53:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:54:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:55:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:55:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:56:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:56:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:57:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 00:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 00:58:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:01:08 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:03:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:03:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:04:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:04:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:05:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:06:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:07:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:07:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:07:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:09:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:10:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:13:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:13:26 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:14:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:14:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:17:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:17:45 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:18:15 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:18:57 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:19:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:19:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:21:10 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-25 01:21:10 --> Undefined index: id
+#0 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 32, Array)
+#1 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(21): App\Models\dashboard\DashboardModel->get_total_pengunjung()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 01:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:21:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:21:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:21:44 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:21:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:22:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:28:19 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:32:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:33:28 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-25 01:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:40:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:40:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:40:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:40:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:45:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:46:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:46:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:47:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:50:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:51:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:52:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:53:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:54:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:54:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:55:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:56:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:57:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:58:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:58:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:58:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:58:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:58:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:58:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:58:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:58:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 01:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:59:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:59:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 01:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 01:59:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:00:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:00:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:02:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:12:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:12:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:12:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:15:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:15:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:15:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:16:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:18:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:18:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:18:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:18:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:18:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:18:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:20:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:20:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:23:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:23:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:23:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:24:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:24:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:24:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:29:59 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2020-08-25 02:29:59 --> Class 'CodeIgniter\Filters\AuthUser' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/assets/base/im...', 'before')
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-08-25 02:29:59 --> Class 'CodeIgniter\Filters\AuthUser' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/assets/base/im...', 'before')
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-08-25 02:29:59 --> Class 'CodeIgniter\Filters\AuthUser' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/assets/base/im...', 'before')
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-08-25 02:29:59 --> Class 'CodeIgniter\Filters\AuthUser' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/imgs/shapes/9....', 'before')
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-08-25 02:30:04 --> Class 'CodeIgniter\Filters\AuthUser' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('/s', 'before')
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:31:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:32:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 02:32:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 02:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 02:32:20 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-25 02:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:10:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:10:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:11:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:11:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:12:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:12:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:12:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:30:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:31:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:32:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:32:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:32:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:32:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:33:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:40:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:41:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:41:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:42:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:43:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:43:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:44:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:45:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:46:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:47:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:47:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:48:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:49:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:50:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:51:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:52:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:52:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:52:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:52:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:52:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:52:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:53:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:53:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:55:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:56:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:56:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:56:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:57:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:57:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 17:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:57:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:57:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:57:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 17:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 17:58:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:00:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:00:28 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:01:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:02:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:03:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:03:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:14:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:16:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:16:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:26:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:26:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:26:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:31:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:31:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:32:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:32:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:34:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:35:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:36:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:37:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:37:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:37:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:37:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:37:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:39:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:39:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:40:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:40:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:40:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:40:26 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:40:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:11 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:26 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:40 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:41:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:41:41 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(168): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_domain()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:44:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:45:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:45:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 18:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:46:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 18:46:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 18:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:47:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:47:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:47:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:47:52 --> Too few arguments to function App\Controllers\base\Dashboard::do_update_musik(), 0 passed in /var/www/html/akadkufix/system/CodeIgniter.php on line 910 and exactly 1 expected
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-25 18:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:48:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:48:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:48:29 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(185): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...', 'musik.mp3')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:50:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:50:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:50:36 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(185): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:51:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:51:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:51:25 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(184): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 18:55:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 18:55:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 18:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:56:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:56:01 --> unlink(/var/www/html/akadkufix/writable/debugbar/debugbar_1598398634.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/var/www...', '/var/www/html/a...', 106, Array)
+#1 /var/www/html/akadkufix/system/Debug/Toolbar/Collectors/History.php(106): unlink('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Debug/Toolbar.php(481): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1598399761, 20)
+#3 /var/www/html/akadkufix/system/Debug/Toolbar.php(454): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /var/www/html/akadkufix/app/Config/Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#5 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#6 /var/www/html/akadkufix/system/Events/Events.php(188): call_user_func(Object(Closure))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(287): CodeIgniter\Events\Events::trigger('pre_system')
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-25 18:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:56:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:56:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:56:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:56:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:56:31 --> Class 'App\Controllers\base\RuntimeException' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-25 18:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:57:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:58:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:58:03 --> Class 'App\Controllers\base\RuntimeException' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-25 18:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:59:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 18:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 18:59:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 18:59:23 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(184): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 19:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:02:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:03:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:04:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:04:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 19:04:03 --> The original file is not a valid file.
+#0 /var/www/html/akadkufix/system/HTTP/Files/UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(184): CodeIgniter\HTTP\Files\UploadedFile->move('assets/users/36...')
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-25 19:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:07:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:07:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 19:07:35 --> The file "musikaa.mp3" exceeds your upload_max_filesize ini directive.(1)
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->do_update_musik()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-25 19:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:11:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:11:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:11:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:13:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:13:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 19:14:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 19:54:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 20:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:01:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:05:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 20:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:05:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 20:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:05:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:05:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:05:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 20:05:23 --> Undefined variable: maps
+#0 /var/www/html/akadkufix/app/Views/base/dashboard/gallery.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 81, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(300): view('base/dashboard/...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->gallery()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-25 20:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:06:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:08:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:09:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:09:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:09:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:09:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:09:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:10:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:11:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:11:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 20:11:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-25 20:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:11:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:11:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:12:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+CRITICAL - 2020-08-25 20:12:45 --> Undefined variable: acara
+#0 /var/www/html/akadkufix/app/Views/base/dashboard/invoice.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 131, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#3 /var/www/html/akadkufix/app/Views/base/dashboard/layout.php(135): view('base/dashboard/...')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/dashboard/...', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/base/Dashboard.php(423): view('base/dashboard/...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\base\Dashboard->invoice()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-25 20:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:12:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:14:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:15:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:15:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:17:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:19:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:19:19 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:19:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:19:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:20:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:21:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:21:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 20:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 20:21:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2020-08-25 22:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 22:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-25 22:46:24 --> Controller "App\Controllers\base\Dashboard" loaded.

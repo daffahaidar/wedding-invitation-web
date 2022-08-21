@@ -1,0 +1,126 @@
+INFO - 2020-04-26 05:04:00 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-26 05:04:42 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:04:46 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-26 05:04:46 --> Invalid file: {0}
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes/hwflower...')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/hwflower', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(55): view('themes/hwflower', Array)
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-26 05:04:47 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-26 05:04:47 --> Invalid file: {0}
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes/hwflower...')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/hwflower', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(55): view('themes/hwflower', Array)
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-26 05:04:49 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-26 05:04:49 --> Invalid file: {0}
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes/hwflower...')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/hwflower', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(55): view('themes/hwflower', Array)
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-26 05:04:51 --> Controller "App\Controllers\Anu" loaded.
+CRITICAL - 2020-04-26 05:04:51 --> Invalid file: {0}
+#0 /var/www/html/akadku/home/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('themes/hwflower...')
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('themes/hwflower', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Anu.php(55): view('themes/hwflower', Array)
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Anu->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anu))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-26 05:05:03 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:05:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:07:23 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:07:49 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:08:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:08:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:08:41 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:09:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:09:11 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:05 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:22 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:24 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:25 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:34 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:36 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:14:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:16:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:16:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:16:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:16:51 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:16:53 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:56 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:57 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:19:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:20:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:23:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:23:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:23:58 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:23:59 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:01 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:18 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:28 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:29 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:24:31 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:25:14 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:25:23 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:25:33 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-26 05:25:38 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:25:44 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:19 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:46 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:27:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:15 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:16 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:17 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:47 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:48 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:49 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:28:50 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:29:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:29:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:29:06 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:29:08 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:29:09 --> Controller "App\Controllers\Anu" loaded.
+INFO - 2020-04-26 05:30:03 --> Controller "App\Controllers\Anu" loaded.

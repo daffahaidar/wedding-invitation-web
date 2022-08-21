@@ -1,0 +1,482 @@
+INFO - 2020-08-21 11:27:19 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:27:21 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:28:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:29:06 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:29:17 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:29:17 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-21 11:29:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-08-21 11:29:20 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-08-21 11:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-21 11:29:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-08-21 11:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-21 11:54:44 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-21 11:54:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-21 11:54:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-21 11:54:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2020-08-21 11:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-08-21 11:55:00 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2020-08-21 11:55:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:55:41 --> Invalid file: order/beranda/home.php
+#0 /var/www/html/akadkufix/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('order/beranda/h...')
+#1 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('order/beranda/h...', Array, true)
+#2 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(25): view('order/beranda/h...')
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-21 11:56:23 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:56:23 --> Call to a member function getResult() on null
+#0 /var/www/html/akadkufix/system/View/View.php(236): include()
+#1 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/ho...', Array, true)
+#2 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(25): view('base/beranda/ho...')
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-21 11:57:19 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:57:19 --> Undefined variable: tema
+#0 /var/www/html/akadkufix/app/Views/base/beranda/home.php(287): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 287, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/ho...', Array, true)
+#3 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(25): view('base/beranda/ho...')
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-21 11:57:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:57:50 --> Undefined variable: tema
+#0 /var/www/html/akadkufix/app/Views/base/beranda/home.php(287): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 287, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/ho...', Array, true)
+#3 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(25): view('base/beranda/ho...')
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-21 11:59:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:59:20 --> Undefined property: App\Controllers\undangan\Undangan::$BerandaModel
+#0 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 26, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-21 11:59:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 11:59:42 --> Undefined property: App\Controllers\undangan\Undangan::$UndangaModel
+#0 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 26, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->index()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-21 11:59:52 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:02:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:03:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:04:29 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 12:04:30 --> Request URI segment is our of range: 3
+#0 /var/www/html/akadkufix/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(34): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-21 12:05:42 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 12:05:42 --> Request URI segment is our of range: 3
+#0 /var/www/html/akadkufix/system/HTTP/URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(3)
+#1 /var/www/html/akadkufix/app/Controllers/undangan/Undangan.php(34): CodeIgniter\HTTP\URI->getSegment(3)
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\undangan\Undangan->undangan()
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\undangan\Undangan))
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:05:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:15 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:06:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:07:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:04 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:08:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:09:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:10:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:02 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:03 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:30 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:32 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2020-08-21 12:12:58 --> Controller "App\Controllers\undangan\Undangan" loaded.
+CRITICAL - 2020-08-21 12:33:06 --> Class 'App\Models\dashboard\DashboardModel' not found
+#0 /var/www/html/akadkufix/system/CodeIgniter.php(882): App\Controllers\dashboard\Dashboard->__construct()
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-21 12:33:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 12:33:29 --> Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP)
+#0 /var/www/html/akadkufix/app/Views/dashboard/layout/header.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/var/www/html/a...', 11, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/layou...', Array, true)
+#3 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(19): view('dashboard/layou...', Array)
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-21 12:34:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:34:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:35:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:35:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:36:17 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:37:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:37:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:40:48 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:40:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:41:13 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:41:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:42:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:53:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 12:53:38 --> Invalid file: dashboard/layout.php
+#0 /var/www/html/akadkufix/system/View/View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard/layou...')
+#1 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/layou...', Array, true)
+#2 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(20): view('dashboard/layou...', Array)
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-21 12:54:03 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:56:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:57:55 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 12:58:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 13:01:04 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 13:09:02 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 13:09:02 --> Unknown column 'count' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT SUM(`cou...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`cou...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`cou...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`cou...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(19): App\Models\dashboard\DashboardModel->get_all_total_pengunjung()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-21 13:10:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 13:11:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 13:11:49 --> Table 'akadkuh.komentar' doesn't exist
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT COUNT(`i...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(`i...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(`i...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(`i...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(20): App\Models\dashboard\DashboardModel->get_total_komentar()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-21 13:12:09 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 13:32:58 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 13:32:58 --> Undefined property: App\Controllers\dashboard\Dashboard::$get_total_pengunjung_mingguan
+#0 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/var/www/html/a...', 21, Array)
+#1 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#2 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-21 13:33:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 13:48:36 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 13:48:36 --> Undefined offset: 1
+#0 /var/www/html/akadkufix/app/Views/dashboard/index.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 178, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(130): view('dashboard/index')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(23): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-21 14:24:16 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 14:24:16 --> Undefined offset: 1
+#0 /var/www/html/akadkufix/app/Views/dashboard/index.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/var/www/html/a...', 178, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(130): view('dashboard/index')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(23): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-21 14:31:21 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 14:31:21 --> Trying to get property 'jumlah' of non-object
+#0 /var/www/html/akadkufix/app/Views/dashboard/index.php(177): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/var/www/html/a...', 177, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(130): view('dashboard/index')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(23): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-21 14:41:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:41:54 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:41:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:44:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:44:06 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:44:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:45:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:46:14 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:46:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:48:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:49:33 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:50:00 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:50:25 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:51:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:51:49 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:52:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 14:53:07 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:03:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:03:53 --> You must set the database table to be used with your query.
+#0 /var/www/html/akadkufix/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/akadkufix/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(22): CodeIgniter\Model->__call('get_all_komenta...', Array)
+#3 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#4 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-08-21 15:04:29 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:05:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:09:12 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:09:12 --> Unknown column 'updated_at' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `nama_pe...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_pe...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_pe...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `nama_pe...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(23): App\Models\dashboard\DashboardModel->get_all_pengunjung()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-21 15:09:35 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:09:35 --> Unknown column 'updated_at' in 'field list'
+#0 /var/www/html/akadkufix/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `nama_pe...')
+#1 /var/www/html/akadkufix/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_pe...')
+#2 /var/www/html/akadkufix/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_pe...')
+#3 /var/www/html/akadkufix/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `nama_pe...', Array, false)
+#4 /var/www/html/akadkufix/app/Models/dashboard/DashboardModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(23): App\Models\dashboard\DashboardModel->get_all_pengunjung()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-08-21 15:10:11 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:10:11 --> syntax error, unexpected end of file
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#1 /var/www/html/akadkufix/app/Views/dashboard/layout.php(133): view('dashboard/index')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-21 15:10:23 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:10:23 --> syntax error, unexpected end of file
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#1 /var/www/html/akadkufix/app/Views/dashboard/layout.php(133): view('dashboard/index')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-21 15:10:38 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:10:38 --> syntax error, unexpected end of file
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#1 /var/www/html/akadkufix/app/Views/dashboard/layout.php(133): view('dashboard/index')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-21 15:10:42 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:10:42 --> syntax error, unexpected end of file
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#1 /var/www/html/akadkufix/app/Views/dashboard/layout.php(133): view('dashboard/index')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-21 15:11:05 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:11:05 --> syntax error, unexpected end of file
+#0 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#1 /var/www/html/akadkufix/app/Views/dashboard/layout.php(132): view('dashboard/index')
+#2 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#4 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#5 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#6 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-08-21 15:11:27 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:11:40 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:16:30 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:17:31 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:18:18 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:19:32 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:20:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:20:53 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:22:51 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:23:39 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:24:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:25:56 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:26:37 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:27:01 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+CRITICAL - 2020-08-21 15:27:01 --> Undefined variable: nama_pengunjung
+#0 /var/www/html/akadkufix/app/Views/dashboard/index.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 92, Array)
+#1 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#2 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#3 /var/www/html/akadkufix/app/Views/dashboard/layout.php(135): view('dashboard/index')
+#4 /var/www/html/akadkufix/system/View/View.php(236): include('/var/www/html/a...')
+#5 /var/www/html/akadkufix/system/Common.php(1071): CodeIgniter\View\View->render('dashboard/index', Array, true)
+#6 /var/www/html/akadkufix/app/Controllers/dashboard/Dashboard.php(25): view('dashboard/layou...', Array)
+#7 /var/www/html/akadkufix/system/CodeIgniter.php(910): App\Controllers\dashboard\Dashboard->index()
+#8 /var/www/html/akadkufix/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboard\Dashboard))
+#9 /var/www/html/akadkufix/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/akadkufix/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-08-21 15:27:24 --> Controller "App\Controllers\dashboard\Dashboard" loaded.
+INFO - 2020-08-21 15:34:59 --> Controller "App\Controllers\dashboard\Dashboard" loaded.

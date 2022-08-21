@@ -1,0 +1,781 @@
+INFO - 2022-02-17 00:01:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 00:01:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 00:42:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 00:42:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 05:39:56 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 05:39:57 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:39:58 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 05:39:59 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 05:39:59 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:00 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:01 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:02 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:04 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:05 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:06 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:07 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:08 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:09 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:11 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:12 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:13 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:14 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:15 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 05:40:17 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 06:20:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:20:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:21:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:22:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:22:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:22:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:23:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 06:40:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:10:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:10:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:30:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:46:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 07:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:26:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:54:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:54:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:55:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:55:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:55:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:55:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 08:56:05 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:03:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:23:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:23:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:23:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:24:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:25:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:26:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:26:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:26:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:28:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:29:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 09:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 09:50:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 09:51:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:24:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:24:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:24:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:24:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:29:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:30:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:30:10 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:30:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:34:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:35:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:49:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:49:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:50:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:50:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:54:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:55:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:56:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 10:59:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:00:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:10:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:10:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:16:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:19:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:19:36 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:19:42 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:19:42 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:19:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:21:17 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:21:18 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-02-17 11:21:19 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 11:23:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:24:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:29:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:30:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:33:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:34:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:37:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:39:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:40:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:41:26 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 11:41:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 11:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:01:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:05:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 12:07:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 12:08:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:08:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:16:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:31:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 12:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:16:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:17:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:19:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:19:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:20:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:20:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:20:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:21:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:22:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:23:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:23:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:25:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:25:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:26:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:27:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:28:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:34:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:47:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:51:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:53:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:54:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 13:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 13:56:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-02-17 13:56:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:02:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 14:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:16:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:56:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:56:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:57:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:57:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 15:57:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:00:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:14:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:26:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 16:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:05:07 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 17:05:07 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:08 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 17:05:08 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 17:05:09 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:09 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:10 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:10 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:11 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:12 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:12 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:13 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:14 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:14 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:15 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:16 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:16 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:17 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:18 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 17:05:18 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 17:10:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 17:23:33 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 17:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:43:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 17:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 18:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:24:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:35:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:35:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:36:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:37:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:37:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:37:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:37:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:38:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:38:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:38:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:38:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:39:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:39:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:49:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:49:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:49:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:49:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:49:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:50:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:50:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:50:13 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:50:35 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:50:58 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:28 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:37 --> Controller "App\Controllers\base\Order" loaded.
+CRITICAL - 2022-02-17 19:51:38 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 19:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:40 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:44 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:50 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:51:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:08 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:18 --> Controller "App\Controllers\base\Lupa_password" loaded.
+INFO - 2022-02-17 19:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:43 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-02-17 19:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:53:52 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-02-17 19:54:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:54:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:54:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:54:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:54:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:54:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:55:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:55:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:55:29 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 19:55:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 19:57:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:57:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:57:41 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 19:58:00 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 19:58:00 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 19:58:00 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 19:58:29 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-02-17 19:58:43 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 19:58:43 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-17 19:58:43 --> Undefined variable: title
+#0 /home/ngua4317/public_html/app/Views/base/beranda/layout.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/ngua4317/...', 6, Array)
+#1 /home/ngua4317/public_html/system/View/View.php(236): include('/home/ngua4317/...')
+#2 /home/ngua4317/public_html/system/Common.php(1071): CodeIgniter\View\View->render('base/beranda/er...', Array, true)
+#3 /home/ngua4317/public_html/app/Config/Routes.php(212): view('base/beranda/la...', Array)
+#4 /home/ngua4317/public_html/system/CodeIgniter.php(933): CodeIgniter\CodeIgniter->Config\{closure}('Controller or i...')
+#5 /home/ngua4317/public_html/system/CodeIgniter.php(322): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#6 /home/ngua4317/public_html/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 19:58:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:58:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:59:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 19:59:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:00:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:05:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:05:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:05:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:05:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 20:06:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 20:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 20:06:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 20:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 20:06:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 20:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 20:06:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 20:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:10:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:30:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 20:37:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-02-17 20:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:40:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 20:56:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:00:58 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:10:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:16:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 21:50:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:00:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:10:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:20:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:30:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:40:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-02-17 22:50:02 --> Controller "App\Controllers\base\Beranda" loaded.

@@ -1,0 +1,1448 @@
+INFO - 2020-04-01 04:15:06 --> Used the default controller.
+INFO - 2020-04-01 04:15:06 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:15:25 --> Used the default controller.
+INFO - 2020-04-01 04:15:25 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:15:54 --> Used the default controller.
+INFO - 2020-04-01 04:15:54 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:16:25 --> Used the default controller.
+INFO - 2020-04-01 04:16:25 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:17:01 --> Used the default controller.
+INFO - 2020-04-01 04:17:01 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:17:55 --> Used the default controller.
+INFO - 2020-04-01 04:17:55 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:17:58 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:18:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:20:22 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:24:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:24:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:25:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:26:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:26:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:27:09 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:27:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:27:14 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:30:40 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:26 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:27 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:27 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:27 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:35 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:32:35 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:33:49 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:33:50 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:34:10 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:34:26 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:34:26 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:34:27 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:34:32 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:34:51 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:35:01 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 04:35:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:35:28 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-01 04:35:37 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-01 04:35:46 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-01 04:35:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-01 04:36:01 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-01 04:36:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-01 04:36:16 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/a...')
+#1 /var/www/html/akadku/home/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-01 04:36:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-01 04:41:24 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-01 04:41:24 --> Cannot call constructor
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(882): App\Controllers\Order->__construct()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 04:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:41:47 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:41:47 --> Call to a member function get() on null
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 04:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:41:48 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:41:48 --> Call to a member function get() on null
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 04:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:42:08 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:43:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:43:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:43:33 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:43:33 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:43:34 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:43:34 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:43:59 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:43:59 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:08 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:44:08 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:44:12 --> Used the default controller.
+INFO - 2020-04-01 04:44:12 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 04:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:14 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:44:14 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:37 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:44:37 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:50 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:44:50 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:44:50 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 04:44:50 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/View/View.php(236): include()
+#1 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#2 /var/www/html/akadku/home/app/Controllers/Order.php(23): view('order')
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-01 04:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:45:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:46:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:47:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:47:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:47:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:47:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:53:39 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:53:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:53:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:54:10 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:54:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:54:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:58:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:58:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:58:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:59:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 04:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 04:59:38 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:00:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:00:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:01:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:02:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:02:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:04:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:05:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:05:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:11:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:11:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:11:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:11:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:11:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:12:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:12:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:12:22 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:12:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:13:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:15:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:20:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:21:39 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:21:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:21:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:22:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:22:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:22:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:22:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:22:39 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:23:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:23:10 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:23:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:23:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:24:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:24:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:24:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:24:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:25:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:25:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:25:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:25:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:26:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:27:22 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:27:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:27:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:28:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:28:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:28:22 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:28:22 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:28:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:29:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:30:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:30:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:30:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:30:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:31:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:31:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:32:36 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:32:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:33:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:33:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:33:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:33:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:33:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:34:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:35:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:35:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:35:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:36:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:36:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:36:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:37:01 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:39:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:26 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:44 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 05:41:44 --> syntax error, unexpected ';'
+#0 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(26): view('order', Array)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 05:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:45 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 05:41:45 --> syntax error, unexpected ';'
+#0 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order', Array, true)
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(26): view('order', Array)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->index()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 05:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:41:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:42:09 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:42:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:42:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:23 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:44:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:45:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:45:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:45:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:45:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:47:49 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:47:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:47:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:47:58 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:47:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:58:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:58:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:59:18 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 05:59:18 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 05:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:59:32 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 05:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 05:59:34 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 05:59:34 --> Call to a member function set() on null
+#0 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#1 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-01 06:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:32 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:00:39 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:06:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:07:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:08:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:08:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:14:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:33 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 06:15:33 --> {0, string} route cannot be found while reverse-routing.
+#0 /var/www/html/akadku/home/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(53): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 06:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:15:37 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 06:15:37 --> {0, string} route cannot be found while reverse-routing.
+#0 /var/www/html/akadku/home/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(53): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 06:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:16:01 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 06:16:01 --> {0, string} route cannot be found while reverse-routing.
+#0 /var/www/html/akadku/home/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(53): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 06:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:16:38 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:37 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:37 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:39 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 06:17:39 --> {0, string} route cannot be found while reverse-routing.
+#0 /var/www/html/akadku/home/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 /var/www/html/akadku/home/app/Controllers/Order.php(53): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#3 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#4 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:17:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:36 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:36 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:18:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:19:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:19:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:19:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:23 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:20:23 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:29:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:29:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:30:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:30:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:30:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:31:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:31:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:31:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:31:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:23 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:32:26 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:35:11 --> Used the default controller.
+INFO - 2020-04-01 06:35:11 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 06:45:33 --> Used the default controller.
+INFO - 2020-04-01 06:45:33 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 06:51:01 --> Used the default controller.
+INFO - 2020-04-01 06:51:01 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 06:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 06:51:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 06:54:38 --> Used the default controller.
+INFO - 2020-04-01 06:54:38 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:31:27 --> Used the default controller.
+INFO - 2020-04-01 07:31:27 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:37:58 --> Used the default controller.
+INFO - 2020-04-01 07:37:58 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:39:38 --> Used the default controller.
+INFO - 2020-04-01 07:39:38 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:40:55 --> Used the default controller.
+INFO - 2020-04-01 07:40:55 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:40:59 --> Used the default controller.
+INFO - 2020-04-01 07:40:59 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:41:03 --> Used the default controller.
+INFO - 2020-04-01 07:41:03 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:41:36 --> Used the default controller.
+INFO - 2020-04-01 07:41:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:42:18 --> Used the default controller.
+INFO - 2020-04-01 07:42:18 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:42:26 --> Used the default controller.
+INFO - 2020-04-01 07:42:26 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:43:30 --> Used the default controller.
+INFO - 2020-04-01 07:43:30 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:43:36 --> Used the default controller.
+INFO - 2020-04-01 07:43:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:45:31 --> Used the default controller.
+INFO - 2020-04-01 07:45:31 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:45:41 --> Used the default controller.
+INFO - 2020-04-01 07:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:45:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:08 --> Used the default controller.
+INFO - 2020-04-01 07:46:08 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:32 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:37 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:48 --> Used the default controller.
+INFO - 2020-04-01 07:46:48 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:46:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:47:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:47:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:47:07 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 07:48:24 --> Used the default controller.
+INFO - 2020-04-01 07:48:24 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 07:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 07:49:10 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:09:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:38 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:10:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:11:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:25:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:25:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:26:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:26:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:01 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:08 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:27:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:31:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:31:28 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:31:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:33:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:52:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:52:47 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 18:52:48 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-04-01 18:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:52:55 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 18:52:56 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-04-01 18:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:53:08 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:53:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:53:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:53:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:55:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:55:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:55:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:56:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:56:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:56:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:56:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:57:07 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:57:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:57:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:57:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:57:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:58:08 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:58:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:58:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:58:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 18:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 18:58:38 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:00:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:01:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:01:09 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:05:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:05:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:05:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:10 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:06:59 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:07:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:07:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:08:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:08:19 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:08:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:08:26 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:12:06 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 19:12:06 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order2-mempelai', Array, true)
+#1 /var/www/html/akadku/home/app/Views/base/order.php(43): view('order2-mempelai')
+#2 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order2-mempelai', Array, true)
+#4 /var/www/html/akadku/home/app/Controllers/Order.php(60): view('base/order', Array)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-01 19:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:12:37 --> Controller "App\Controllers\Order" loaded.
+CRITICAL - 2020-04-01 19:12:37 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order2-mempelai', Array, true)
+#1 /var/www/html/akadku/home/app/Views/base/order.php(43): view('order2-mempelai')
+#2 /var/www/html/akadku/home/system/View/View.php(236): include('/var/www/html/a...')
+#3 /var/www/html/akadku/home/system/Common.php(1071): CodeIgniter\View\View->render('order2-mempelai', Array, true)
+#4 /var/www/html/akadku/home/app/Controllers/Order.php(60): view('base/order', Array)
+#5 /var/www/html/akadku/home/system/CodeIgniter.php(910): App\Controllers\Order->mempelai()
+#6 /var/www/html/akadku/home/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#7 /var/www/html/akadku/home/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/akadku/home/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-01 19:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:13:01 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:13:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:13:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:13:26 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:13:28 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:15:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:15:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:15:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:23 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:43 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:45 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:16:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:17:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:17:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 19:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 19:17:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:05:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:05:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:05:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:05:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:05:47 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:06:51 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:02 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:07 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:13 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:17 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:27 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:28 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:07:29 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:07:36 --> Used the default controller.
+INFO - 2020-04-01 20:07:36 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 20:07:46 --> Used the default controller.
+INFO - 2020-04-01 20:07:46 --> Controller "App\Controllers\Beranda" loaded.
+INFO - 2020-04-01 20:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:08:01 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:09:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:12:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:12:54 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:12:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:12:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:10 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:12 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:13:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:40 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:55 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:56 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:16:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:17:15 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:17:35 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:17:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:17:48 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:20:11 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:21:53 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:32:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:33:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:34:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:34:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:34:44 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:34:46 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:35:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:35:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:35:20 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:35:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:35:24 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:36:25 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:36:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:36:31 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:34 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:38 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:42 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:50 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:37:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:05 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:07 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:07 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:14 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:38:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:42:52 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:44:06 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:44:33 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:44:36 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:44:36 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:45:16 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:45:18 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:45:57 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:00 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:03 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:04 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:46:41 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:47:09 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:47:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:47:21 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:47:30 --> Controller "App\Controllers\Order" loaded.
+INFO - 2020-04-01 20:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-01 20:47:30 --> Controller "App\Controllers\Order" loaded.
