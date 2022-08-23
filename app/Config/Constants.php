@@ -81,19 +81,19 @@ define('SITE_NAME', 'NikahKuy'); ///NAMA WEBSITE
 
 // =========== production mode ============
 // //LINK DOMAIN WITH URL
-define('SITE_UTAMA', 'https://nikahkuy.xyz/'); 
-define('SITE_UNDANGAN', 'https://undangan.nikahkuy.xyz/');
-define('SITE_ADMIN', 'https://admin.nikahkuy.xyz/');
-define('SITE_BUKUTAMU', 'https://bukutamu.nikahkuy.xyz/');
+define('SITE_UTAMA', 'http://home.localhost:8080');
+define('SITE_UNDANGAN', 'http://undangan.localhost:8080');
+define('SITE_ADMIN', 'http://admin.localhost:8080');
+define('SITE_BUKUTAMU', 'http://bukutamu.localhost:8080');
 
 //DOMAIN ONLY
-define('DOMAIN_UTAMA', 'nikahkuy.xyz');
-define('DOMAIN_UTAMA_WWW', 'www.nikahkuy.xyz'); //PAKE WWW
-define('DOMAIN_UNDANGAN', 'undangan.nikahkuy.xyz');
-define('DOMAIN_ADMIN', 'admin.nikahkuy.xyz');
-define('DOMAIN_BUKUTAMU', 'bukutamu.nikahkuy.xyz');
+define('DOMAIN_UTAMA', 'home.localhost:8080');
+define('DOMAIN_UTAMA_WWW', 'www.home.localhost:8080'); //PAKE WWW
+define('DOMAIN_UNDANGAN', 'undangan.localhost:8080');
+define('DOMAIN_ADMIN', 'admin.localhost:8080');
+define('DOMAIN_BUKUTAMU', 'bukutamu.localhost:8080');
 
 //base url dinamis
-$base = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['SCRIPT_NAME']) : 'http://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['SCRIPT_NAME']);
+$base = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['SCRIPT_NAME']) : 'http://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['SCRIPT_NAME']);
 
 defined('BASE') || define('BASE', $base);
